@@ -1,0 +1,42 @@
+04/16/2024 11:31:34 PM - INFO - ***Evolving 10 generations with population 20***
+04/16/2024 11:31:34 PM - INFO - ***Doing generation 1 of 10***
+04/16/2024 11:50:26 PM - INFO - Generation average: 89.95%
+04/16/2024 11:50:26 PM - INFO - --------------------------------------------------------------------------------
+04/16/2024 11:50:26 PM - INFO - ***Doing generation 2 of 10***
+04/17/2024 12:04:30 AM - INFO - Generation average: 96.30%
+04/17/2024 12:04:30 AM - INFO - --------------------------------------------------------------------------------
+04/17/2024 12:04:30 AM - INFO - ***Doing generation 3 of 10***
+04/17/2024 12:17:26 AM - INFO - Generation average: 97.22%
+04/17/2024 12:17:26 AM - INFO - --------------------------------------------------------------------------------
+04/17/2024 12:17:26 AM - INFO - ***Doing generation 4 of 10***
+04/17/2024 12:22:24 AM - INFO - Generation average: 97.45%
+04/17/2024 12:22:24 AM - INFO - --------------------------------------------------------------------------------
+04/17/2024 12:22:24 AM - INFO - ***Doing generation 5 of 10***
+04/17/2024 12:26:50 AM - INFO - Generation average: 97.68%
+04/17/2024 12:26:50 AM - INFO - --------------------------------------------------------------------------------
+04/17/2024 12:26:50 AM - INFO - ***Doing generation 6 of 10***
+04/17/2024 12:31:26 AM - INFO - Generation average: 97.85%
+04/17/2024 12:31:26 AM - INFO - --------------------------------------------------------------------------------
+04/17/2024 12:31:26 AM - INFO - ***Doing generation 7 of 10***
+04/17/2024 12:34:28 AM - INFO - Generation average: 97.91%
+04/17/2024 12:34:28 AM - INFO - --------------------------------------------------------------------------------
+04/17/2024 12:34:28 AM - INFO - ***Doing generation 8 of 10***
+04/17/2024 12:38:20 AM - INFO - Generation average: 97.65%
+04/17/2024 12:38:20 AM - INFO - --------------------------------------------------------------------------------
+04/17/2024 12:38:20 AM - INFO - ***Doing generation 9 of 10***
+04/17/2024 12:41:58 AM - INFO - Generation average: 97.96%
+04/17/2024 12:41:58 AM - INFO - --------------------------------------------------------------------------------
+04/17/2024 12:41:58 AM - INFO - ***Doing generation 10 of 10***
+04/17/2024 12:45:28 AM - INFO - Generation average: 98.12%
+04/17/2024 12:45:28 AM - INFO - --------------------------------------------------------------------------------
+04/17/2024 12:45:28 AM - INFO - --------------------------------------------------------------------------------
+04/17/2024 12:45:28 AM - INFO - {'nb_neurons': 768, 'nb_layers': 1, 'activation': 'relu', 'optimizer': 'adam'}
+04/17/2024 12:45:28 AM - INFO - Network accuracy: 98.36%
+04/17/2024 12:45:28 AM - INFO - {'nb_neurons': 768, 'nb_layers': 3, 'activation': 'relu', 'optimizer': 'rmsprop'}
+04/17/2024 12:45:28 AM - INFO - Network accuracy: 98.31%
+04/17/2024 12:45:28 AM - INFO - {'nb_neurons': 768, 'nb_layers': 3, 'activation': 'relu', 'optimizer': 'adam'}
+04/17/2024 12:45:28 AM - INFO - Network accuracy: 98.31%
+04/17/2024 12:45:28 AM - INFO - {'nb_neurons': 768, 'nb_layers': 2, 'activation': 'relu', 'optimizer': 'rmsprop'}
+04/17/2024 12:45:28 AM - INFO - Network accuracy: 98.23%
+04/17/2024 12:45:28 AM - INFO - {'nb_neurons': 768, 'nb_layers': 3, 'activation': 'relu', 'optimizer': 'adam'}
+04/17/2024 12:45:28 AM - INFO - Network accuracy: 98.21%

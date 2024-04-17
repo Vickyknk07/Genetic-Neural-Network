@@ -1,0 +1,1135 @@
+04/16/2024 06:57:29 PM - INFO - ***Brute forcing networks***
+04/16/2024 06:57:41 PM - INFO - {'nb_neurons': 64, 'nb_layers': 1, 'activation': 'relu', 'optimizer': 'rmsprop'}
+04/16/2024 06:57:41 PM - INFO - Network accuracy: 97.49%
+04/16/2024 06:57:44 PM - INFO - {'nb_neurons': 64, 'nb_layers': 1, 'activation': 'relu', 'optimizer': 'adam'}
+04/16/2024 06:57:44 PM - INFO - Network accuracy: 96.55%
+04/16/2024 06:57:47 PM - INFO - {'nb_neurons': 64, 'nb_layers': 1, 'activation': 'relu', 'optimizer': 'sgd'}
+04/16/2024 06:57:47 PM - INFO - Network accuracy: 90.57%
+04/16/2024 06:57:50 PM - INFO - {'nb_neurons': 64, 'nb_layers': 1, 'activation': 'relu', 'optimizer': 'adagrad'}
+04/16/2024 06:57:50 PM - INFO - Network accuracy: 84.73%
+04/16/2024 06:57:53 PM - INFO - {'nb_neurons': 64, 'nb_layers': 1, 'activation': 'relu', 'optimizer': 'adadelta'}
+04/16/2024 06:57:53 PM - INFO - Network accuracy: 21.86%
+04/16/2024 06:57:56 PM - INFO - {'nb_neurons': 64, 'nb_layers': 1, 'activation': 'relu', 'optimizer': 'adamax'}
+04/16/2024 06:57:56 PM - INFO - Network accuracy: 94.76%
+04/16/2024 06:58:00 PM - INFO - {'nb_neurons': 64, 'nb_layers': 1, 'activation': 'relu', 'optimizer': 'nadam'}
+04/16/2024 06:58:00 PM - INFO - Network accuracy: 96.44%
+04/16/2024 06:58:03 PM - INFO - {'nb_neurons': 64, 'nb_layers': 1, 'activation': 'elu', 'optimizer': 'rmsprop'}
+04/16/2024 06:58:03 PM - INFO - Network accuracy: 95.92%
+04/16/2024 06:58:06 PM - INFO - {'nb_neurons': 64, 'nb_layers': 1, 'activation': 'elu', 'optimizer': 'adam'}
+04/16/2024 06:58:06 PM - INFO - Network accuracy: 96.18%
+04/16/2024 06:58:09 PM - INFO - {'nb_neurons': 64, 'nb_layers': 1, 'activation': 'elu', 'optimizer': 'sgd'}
+04/16/2024 06:58:09 PM - INFO - Network accuracy: 90.28%
+04/16/2024 06:58:12 PM - INFO - {'nb_neurons': 64, 'nb_layers': 1, 'activation': 'elu', 'optimizer': 'adagrad'}
+04/16/2024 06:58:12 PM - INFO - Network accuracy: 85.31%
+04/16/2024 06:58:15 PM - INFO - {'nb_neurons': 64, 'nb_layers': 1, 'activation': 'elu', 'optimizer': 'adadelta'}
+04/16/2024 06:58:15 PM - INFO - Network accuracy: 23.22%
+04/16/2024 06:58:18 PM - INFO - {'nb_neurons': 64, 'nb_layers': 1, 'activation': 'elu', 'optimizer': 'adamax'}
+04/16/2024 06:58:18 PM - INFO - Network accuracy: 93.90%
+04/16/2024 06:58:21 PM - INFO - {'nb_neurons': 64, 'nb_layers': 1, 'activation': 'elu', 'optimizer': 'nadam'}
+04/16/2024 06:58:21 PM - INFO - Network accuracy: 95.96%
+04/16/2024 06:58:24 PM - INFO - {'nb_neurons': 64, 'nb_layers': 1, 'activation': 'tanh', 'optimizer': 'rmsprop'}
+04/16/2024 06:58:24 PM - INFO - Network accuracy: 95.28%
+04/16/2024 06:58:27 PM - INFO - {'nb_neurons': 64, 'nb_layers': 1, 'activation': 'tanh', 'optimizer': 'adam'}
+04/16/2024 06:58:27 PM - INFO - Network accuracy: 95.57%
+04/16/2024 06:58:30 PM - INFO - {'nb_neurons': 64, 'nb_layers': 1, 'activation': 'tanh', 'optimizer': 'sgd'}
+04/16/2024 06:58:30 PM - INFO - Network accuracy: 90.39%
+04/16/2024 06:58:33 PM - INFO - {'nb_neurons': 64, 'nb_layers': 1, 'activation': 'tanh', 'optimizer': 'adagrad'}
+04/16/2024 06:58:33 PM - INFO - Network accuracy: 85.78%
+04/16/2024 06:58:36 PM - INFO - {'nb_neurons': 64, 'nb_layers': 1, 'activation': 'tanh', 'optimizer': 'adadelta'}
+04/16/2024 06:58:36 PM - INFO - Network accuracy: 39.25%
+04/16/2024 06:58:39 PM - INFO - {'nb_neurons': 64, 'nb_layers': 1, 'activation': 'tanh', 'optimizer': 'adamax'}
+04/16/2024 06:58:39 PM - INFO - Network accuracy: 93.82%
+04/16/2024 06:58:42 PM - INFO - {'nb_neurons': 64, 'nb_layers': 1, 'activation': 'tanh', 'optimizer': 'nadam'}
+04/16/2024 06:58:42 PM - INFO - Network accuracy: 95.29%
+04/16/2024 06:58:45 PM - INFO - {'nb_neurons': 64, 'nb_layers': 1, 'activation': 'sigmoid', 'optimizer': 'rmsprop'}
+04/16/2024 06:58:45 PM - INFO - Network accuracy: 94.53%
+04/16/2024 06:58:48 PM - INFO - {'nb_neurons': 64, 'nb_layers': 1, 'activation': 'sigmoid', 'optimizer': 'adam'}
+04/16/2024 06:58:48 PM - INFO - Network accuracy: 94.67%
+04/16/2024 06:58:50 PM - INFO - {'nb_neurons': 64, 'nb_layers': 1, 'activation': 'sigmoid', 'optimizer': 'sgd'}
+04/16/2024 06:58:50 PM - INFO - Network accuracy: 82.61%
+04/16/2024 06:58:53 PM - INFO - {'nb_neurons': 64, 'nb_layers': 1, 'activation': 'sigmoid', 'optimizer': 'adagrad'}
+04/16/2024 06:58:53 PM - INFO - Network accuracy: 72.36%
+04/16/2024 06:58:56 PM - INFO - {'nb_neurons': 64, 'nb_layers': 1, 'activation': 'sigmoid', 'optimizer': 'adadelta'}
+04/16/2024 06:58:56 PM - INFO - Network accuracy: 14.12%
+04/16/2024 06:58:59 PM - INFO - {'nb_neurons': 64, 'nb_layers': 1, 'activation': 'sigmoid', 'optimizer': 'adamax'}
+04/16/2024 06:58:59 PM - INFO - Network accuracy: 92.34%
+04/16/2024 06:59:02 PM - INFO - {'nb_neurons': 64, 'nb_layers': 1, 'activation': 'sigmoid', 'optimizer': 'nadam'}
+04/16/2024 06:59:02 PM - INFO - Network accuracy: 94.39%
+04/16/2024 06:59:06 PM - INFO - {'nb_neurons': 64, 'nb_layers': 2, 'activation': 'relu', 'optimizer': 'rmsprop'}
+04/16/2024 06:59:06 PM - INFO - Network accuracy: 96.73%
+04/16/2024 06:59:09 PM - INFO - {'nb_neurons': 64, 'nb_layers': 2, 'activation': 'relu', 'optimizer': 'adam'}
+04/16/2024 06:59:09 PM - INFO - Network accuracy: 96.78%
+04/16/2024 06:59:14 PM - INFO - {'nb_neurons': 64, 'nb_layers': 2, 'activation': 'relu', 'optimizer': 'sgd'}
+04/16/2024 06:59:14 PM - INFO - Network accuracy: 90.56%
+04/16/2024 06:59:19 PM - INFO - {'nb_neurons': 64, 'nb_layers': 2, 'activation': 'relu', 'optimizer': 'adagrad'}
+04/16/2024 06:59:19 PM - INFO - Network accuracy: 83.53%
+04/16/2024 06:59:24 PM - INFO - {'nb_neurons': 64, 'nb_layers': 2, 'activation': 'relu', 'optimizer': 'adadelta'}
+04/16/2024 06:59:24 PM - INFO - Network accuracy: 16.21%
+04/16/2024 06:59:28 PM - INFO - {'nb_neurons': 64, 'nb_layers': 2, 'activation': 'relu', 'optimizer': 'adamax'}
+04/16/2024 06:59:28 PM - INFO - Network accuracy: 95.21%
+04/16/2024 06:59:32 PM - INFO - {'nb_neurons': 64, 'nb_layers': 2, 'activation': 'relu', 'optimizer': 'nadam'}
+04/16/2024 06:59:32 PM - INFO - Network accuracy: 96.95%
+04/16/2024 06:59:35 PM - INFO - {'nb_neurons': 64, 'nb_layers': 2, 'activation': 'elu', 'optimizer': 'rmsprop'}
+04/16/2024 06:59:35 PM - INFO - Network accuracy: 96.26%
+04/16/2024 06:59:38 PM - INFO - {'nb_neurons': 64, 'nb_layers': 2, 'activation': 'elu', 'optimizer': 'adam'}
+04/16/2024 06:59:38 PM - INFO - Network accuracy: 96.10%
+04/16/2024 06:59:41 PM - INFO - {'nb_neurons': 64, 'nb_layers': 2, 'activation': 'elu', 'optimizer': 'sgd'}
+04/16/2024 06:59:41 PM - INFO - Network accuracy: 91.01%
+04/16/2024 06:59:45 PM - INFO - {'nb_neurons': 64, 'nb_layers': 2, 'activation': 'elu', 'optimizer': 'adagrad'}
+04/16/2024 06:59:45 PM - INFO - Network accuracy: 86.75%
+04/16/2024 06:59:48 PM - INFO - {'nb_neurons': 64, 'nb_layers': 2, 'activation': 'elu', 'optimizer': 'adadelta'}
+04/16/2024 06:59:48 PM - INFO - Network accuracy: 34.77%
+04/16/2024 06:59:52 PM - INFO - {'nb_neurons': 64, 'nb_layers': 2, 'activation': 'elu', 'optimizer': 'adamax'}
+04/16/2024 06:59:52 PM - INFO - Network accuracy: 94.65%
+04/16/2024 06:59:56 PM - INFO - {'nb_neurons': 64, 'nb_layers': 2, 'activation': 'elu', 'optimizer': 'nadam'}
+04/16/2024 06:59:56 PM - INFO - Network accuracy: 96.32%
+04/16/2024 07:00:00 PM - INFO - {'nb_neurons': 64, 'nb_layers': 2, 'activation': 'tanh', 'optimizer': 'rmsprop'}
+04/16/2024 07:00:00 PM - INFO - Network accuracy: 95.94%
+04/16/2024 07:00:03 PM - INFO - {'nb_neurons': 64, 'nb_layers': 2, 'activation': 'tanh', 'optimizer': 'adam'}
+04/16/2024 07:00:03 PM - INFO - Network accuracy: 95.67%
+04/16/2024 07:00:06 PM - INFO - {'nb_neurons': 64, 'nb_layers': 2, 'activation': 'tanh', 'optimizer': 'sgd'}
+04/16/2024 07:00:06 PM - INFO - Network accuracy: 90.50%
+04/16/2024 07:00:09 PM - INFO - {'nb_neurons': 64, 'nb_layers': 2, 'activation': 'tanh', 'optimizer': 'adagrad'}
+04/16/2024 07:00:09 PM - INFO - Network accuracy: 85.94%
+04/16/2024 07:00:13 PM - INFO - {'nb_neurons': 64, 'nb_layers': 2, 'activation': 'tanh', 'optimizer': 'adadelta'}
+04/16/2024 07:00:13 PM - INFO - Network accuracy: 28.05%
+04/16/2024 07:00:16 PM - INFO - {'nb_neurons': 64, 'nb_layers': 2, 'activation': 'tanh', 'optimizer': 'adamax'}
+04/16/2024 07:00:16 PM - INFO - Network accuracy: 94.04%
+04/16/2024 07:00:20 PM - INFO - {'nb_neurons': 64, 'nb_layers': 2, 'activation': 'tanh', 'optimizer': 'nadam'}
+04/16/2024 07:00:20 PM - INFO - Network accuracy: 95.73%
+04/16/2024 07:00:23 PM - INFO - {'nb_neurons': 64, 'nb_layers': 2, 'activation': 'sigmoid', 'optimizer': 'rmsprop'}
+04/16/2024 07:00:23 PM - INFO - Network accuracy: 94.00%
+04/16/2024 07:00:27 PM - INFO - {'nb_neurons': 64, 'nb_layers': 2, 'activation': 'sigmoid', 'optimizer': 'adam'}
+04/16/2024 07:00:27 PM - INFO - Network accuracy: 94.37%
+04/16/2024 07:00:30 PM - INFO - {'nb_neurons': 64, 'nb_layers': 2, 'activation': 'sigmoid', 'optimizer': 'sgd'}
+04/16/2024 07:00:30 PM - INFO - Network accuracy: 60.94%
+04/16/2024 07:00:33 PM - INFO - {'nb_neurons': 64, 'nb_layers': 2, 'activation': 'sigmoid', 'optimizer': 'adagrad'}
+04/16/2024 07:00:33 PM - INFO - Network accuracy: 24.76%
+04/16/2024 07:00:37 PM - INFO - {'nb_neurons': 64, 'nb_layers': 2, 'activation': 'sigmoid', 'optimizer': 'adadelta'}
+04/16/2024 07:00:37 PM - INFO - Network accuracy: 10.09%
+04/16/2024 07:00:40 PM - INFO - {'nb_neurons': 64, 'nb_layers': 2, 'activation': 'sigmoid', 'optimizer': 'adamax'}
+04/16/2024 07:00:40 PM - INFO - Network accuracy: 91.44%
+04/16/2024 07:00:43 PM - INFO - {'nb_neurons': 64, 'nb_layers': 2, 'activation': 'sigmoid', 'optimizer': 'nadam'}
+04/16/2024 07:00:43 PM - INFO - Network accuracy: 94.16%
+04/16/2024 07:00:47 PM - INFO - {'nb_neurons': 64, 'nb_layers': 3, 'activation': 'relu', 'optimizer': 'rmsprop'}
+04/16/2024 07:00:47 PM - INFO - Network accuracy: 96.80%
+04/16/2024 07:00:51 PM - INFO - {'nb_neurons': 64, 'nb_layers': 3, 'activation': 'relu', 'optimizer': 'adam'}
+04/16/2024 07:00:51 PM - INFO - Network accuracy: 96.67%
+04/16/2024 07:00:54 PM - INFO - {'nb_neurons': 64, 'nb_layers': 3, 'activation': 'relu', 'optimizer': 'sgd'}
+04/16/2024 07:00:54 PM - INFO - Network accuracy: 90.53%
+04/16/2024 07:00:58 PM - INFO - {'nb_neurons': 64, 'nb_layers': 3, 'activation': 'relu', 'optimizer': 'adagrad'}
+04/16/2024 07:00:58 PM - INFO - Network accuracy: 80.93%
+04/16/2024 07:01:02 PM - INFO - {'nb_neurons': 64, 'nb_layers': 3, 'activation': 'relu', 'optimizer': 'adadelta'}
+04/16/2024 07:01:02 PM - INFO - Network accuracy: 21.34%
+04/16/2024 07:01:05 PM - INFO - {'nb_neurons': 64, 'nb_layers': 3, 'activation': 'relu', 'optimizer': 'adamax'}
+04/16/2024 07:01:05 PM - INFO - Network accuracy: 95.51%
+04/16/2024 07:01:10 PM - INFO - {'nb_neurons': 64, 'nb_layers': 3, 'activation': 'relu', 'optimizer': 'nadam'}
+04/16/2024 07:01:10 PM - INFO - Network accuracy: 96.27%
+04/16/2024 07:01:13 PM - INFO - {'nb_neurons': 64, 'nb_layers': 3, 'activation': 'elu', 'optimizer': 'rmsprop'}
+04/16/2024 07:01:13 PM - INFO - Network accuracy: 96.17%
+04/16/2024 07:01:17 PM - INFO - {'nb_neurons': 64, 'nb_layers': 3, 'activation': 'elu', 'optimizer': 'adam'}
+04/16/2024 07:01:17 PM - INFO - Network accuracy: 96.18%
+04/16/2024 07:01:20 PM - INFO - {'nb_neurons': 64, 'nb_layers': 3, 'activation': 'elu', 'optimizer': 'sgd'}
+04/16/2024 07:01:20 PM - INFO - Network accuracy: 91.09%
+04/16/2024 07:01:24 PM - INFO - {'nb_neurons': 64, 'nb_layers': 3, 'activation': 'elu', 'optimizer': 'adagrad'}
+04/16/2024 07:01:24 PM - INFO - Network accuracy: 86.15%
+04/16/2024 07:01:28 PM - INFO - {'nb_neurons': 64, 'nb_layers': 3, 'activation': 'elu', 'optimizer': 'adadelta'}
+04/16/2024 07:01:28 PM - INFO - Network accuracy: 39.83%
+04/16/2024 07:01:32 PM - INFO - {'nb_neurons': 64, 'nb_layers': 3, 'activation': 'elu', 'optimizer': 'adamax'}
+04/16/2024 07:01:32 PM - INFO - Network accuracy: 94.42%
+04/16/2024 07:01:37 PM - INFO - {'nb_neurons': 64, 'nb_layers': 3, 'activation': 'elu', 'optimizer': 'nadam'}
+04/16/2024 07:01:37 PM - INFO - Network accuracy: 95.98%
+04/16/2024 07:01:41 PM - INFO - {'nb_neurons': 64, 'nb_layers': 3, 'activation': 'tanh', 'optimizer': 'rmsprop'}
+04/16/2024 07:01:41 PM - INFO - Network accuracy: 95.65%
+04/16/2024 07:01:44 PM - INFO - {'nb_neurons': 64, 'nb_layers': 3, 'activation': 'tanh', 'optimizer': 'adam'}
+04/16/2024 07:01:44 PM - INFO - Network accuracy: 95.63%
+04/16/2024 07:01:48 PM - INFO - {'nb_neurons': 64, 'nb_layers': 3, 'activation': 'tanh', 'optimizer': 'sgd'}
+04/16/2024 07:01:48 PM - INFO - Network accuracy: 90.94%
+04/16/2024 07:01:51 PM - INFO - {'nb_neurons': 64, 'nb_layers': 3, 'activation': 'tanh', 'optimizer': 'adagrad'}
+04/16/2024 07:01:51 PM - INFO - Network accuracy: 84.51%
+04/16/2024 07:01:56 PM - INFO - {'nb_neurons': 64, 'nb_layers': 3, 'activation': 'tanh', 'optimizer': 'adadelta'}
+04/16/2024 07:01:56 PM - INFO - Network accuracy: 39.59%
+04/16/2024 07:02:00 PM - INFO - {'nb_neurons': 64, 'nb_layers': 3, 'activation': 'tanh', 'optimizer': 'adamax'}
+04/16/2024 07:02:00 PM - INFO - Network accuracy: 93.88%
+04/16/2024 07:02:04 PM - INFO - {'nb_neurons': 64, 'nb_layers': 3, 'activation': 'tanh', 'optimizer': 'nadam'}
+04/16/2024 07:02:04 PM - INFO - Network accuracy: 95.84%
+04/16/2024 07:02:08 PM - INFO - {'nb_neurons': 64, 'nb_layers': 3, 'activation': 'sigmoid', 'optimizer': 'rmsprop'}
+04/16/2024 07:02:08 PM - INFO - Network accuracy: 93.63%
+04/16/2024 07:02:11 PM - INFO - {'nb_neurons': 64, 'nb_layers': 3, 'activation': 'sigmoid', 'optimizer': 'adam'}
+04/16/2024 07:02:11 PM - INFO - Network accuracy: 94.35%
+04/16/2024 07:02:15 PM - INFO - {'nb_neurons': 64, 'nb_layers': 3, 'activation': 'sigmoid', 'optimizer': 'sgd'}
+04/16/2024 07:02:15 PM - INFO - Network accuracy: 11.35%
+04/16/2024 07:02:18 PM - INFO - {'nb_neurons': 64, 'nb_layers': 3, 'activation': 'sigmoid', 'optimizer': 'adagrad'}
+04/16/2024 07:02:18 PM - INFO - Network accuracy: 11.35%
+04/16/2024 07:02:23 PM - INFO - {'nb_neurons': 64, 'nb_layers': 3, 'activation': 'sigmoid', 'optimizer': 'adadelta'}
+04/16/2024 07:02:23 PM - INFO - Network accuracy: 10.10%
+04/16/2024 07:02:27 PM - INFO - {'nb_neurons': 64, 'nb_layers': 3, 'activation': 'sigmoid', 'optimizer': 'adamax'}
+04/16/2024 07:02:27 PM - INFO - Network accuracy: 89.85%
+04/16/2024 07:02:31 PM - INFO - {'nb_neurons': 64, 'nb_layers': 3, 'activation': 'sigmoid', 'optimizer': 'nadam'}
+04/16/2024 07:02:31 PM - INFO - Network accuracy: 94.13%
+04/16/2024 07:02:35 PM - INFO - {'nb_neurons': 64, 'nb_layers': 4, 'activation': 'relu', 'optimizer': 'rmsprop'}
+04/16/2024 07:02:35 PM - INFO - Network accuracy: 96.17%
+04/16/2024 07:02:39 PM - INFO - {'nb_neurons': 64, 'nb_layers': 4, 'activation': 'relu', 'optimizer': 'adam'}
+04/16/2024 07:02:39 PM - INFO - Network accuracy: 96.37%
+04/16/2024 07:02:43 PM - INFO - {'nb_neurons': 64, 'nb_layers': 4, 'activation': 'relu', 'optimizer': 'sgd'}
+04/16/2024 07:02:43 PM - INFO - Network accuracy: 89.19%
+04/16/2024 07:02:47 PM - INFO - {'nb_neurons': 64, 'nb_layers': 4, 'activation': 'relu', 'optimizer': 'adagrad'}
+04/16/2024 07:02:47 PM - INFO - Network accuracy: 64.33%
+04/16/2024 07:02:52 PM - INFO - {'nb_neurons': 64, 'nb_layers': 4, 'activation': 'relu', 'optimizer': 'adadelta'}
+04/16/2024 07:02:52 PM - INFO - Network accuracy: 13.10%
+04/16/2024 07:02:56 PM - INFO - {'nb_neurons': 64, 'nb_layers': 4, 'activation': 'relu', 'optimizer': 'adamax'}
+04/16/2024 07:02:56 PM - INFO - Network accuracy: 95.38%
+04/16/2024 07:03:01 PM - INFO - {'nb_neurons': 64, 'nb_layers': 4, 'activation': 'relu', 'optimizer': 'nadam'}
+04/16/2024 07:03:01 PM - INFO - Network accuracy: 96.47%
+04/16/2024 07:03:05 PM - INFO - {'nb_neurons': 64, 'nb_layers': 4, 'activation': 'elu', 'optimizer': 'rmsprop'}
+04/16/2024 07:03:05 PM - INFO - Network accuracy: 95.99%
+04/16/2024 07:03:09 PM - INFO - {'nb_neurons': 64, 'nb_layers': 4, 'activation': 'elu', 'optimizer': 'adam'}
+04/16/2024 07:03:09 PM - INFO - Network accuracy: 95.96%
+04/16/2024 07:03:13 PM - INFO - {'nb_neurons': 64, 'nb_layers': 4, 'activation': 'elu', 'optimizer': 'sgd'}
+04/16/2024 07:03:13 PM - INFO - Network accuracy: 91.21%
+04/16/2024 07:03:17 PM - INFO - {'nb_neurons': 64, 'nb_layers': 4, 'activation': 'elu', 'optimizer': 'adagrad'}
+04/16/2024 07:03:17 PM - INFO - Network accuracy: 86.55%
+04/16/2024 07:03:22 PM - INFO - {'nb_neurons': 64, 'nb_layers': 4, 'activation': 'elu', 'optimizer': 'adadelta'}
+04/16/2024 07:03:22 PM - INFO - Network accuracy: 32.14%
+04/16/2024 07:03:26 PM - INFO - {'nb_neurons': 64, 'nb_layers': 4, 'activation': 'elu', 'optimizer': 'adamax'}
+04/16/2024 07:03:26 PM - INFO - Network accuracy: 94.41%
+04/16/2024 07:03:31 PM - INFO - {'nb_neurons': 64, 'nb_layers': 4, 'activation': 'elu', 'optimizer': 'nadam'}
+04/16/2024 07:03:31 PM - INFO - Network accuracy: 96.05%
+04/16/2024 07:03:36 PM - INFO - {'nb_neurons': 64, 'nb_layers': 4, 'activation': 'tanh', 'optimizer': 'rmsprop'}
+04/16/2024 07:03:36 PM - INFO - Network accuracy: 95.35%
+04/16/2024 07:03:40 PM - INFO - {'nb_neurons': 64, 'nb_layers': 4, 'activation': 'tanh', 'optimizer': 'adam'}
+04/16/2024 07:03:40 PM - INFO - Network accuracy: 95.46%
+04/16/2024 07:03:44 PM - INFO - {'nb_neurons': 64, 'nb_layers': 4, 'activation': 'tanh', 'optimizer': 'sgd'}
+04/16/2024 07:03:44 PM - INFO - Network accuracy: 90.85%
+04/16/2024 07:03:48 PM - INFO - {'nb_neurons': 64, 'nb_layers': 4, 'activation': 'tanh', 'optimizer': 'adagrad'}
+04/16/2024 07:03:48 PM - INFO - Network accuracy: 86.22%
+04/16/2024 07:03:52 PM - INFO - {'nb_neurons': 64, 'nb_layers': 4, 'activation': 'tanh', 'optimizer': 'adadelta'}
+04/16/2024 07:03:52 PM - INFO - Network accuracy: 34.74%
+04/16/2024 07:03:56 PM - INFO - {'nb_neurons': 64, 'nb_layers': 4, 'activation': 'tanh', 'optimizer': 'adamax'}
+04/16/2024 07:03:56 PM - INFO - Network accuracy: 93.90%
+04/16/2024 07:04:00 PM - INFO - {'nb_neurons': 64, 'nb_layers': 4, 'activation': 'tanh', 'optimizer': 'nadam'}
+04/16/2024 07:04:00 PM - INFO - Network accuracy: 95.34%
+04/16/2024 07:04:04 PM - INFO - {'nb_neurons': 64, 'nb_layers': 4, 'activation': 'sigmoid', 'optimizer': 'rmsprop'}
+04/16/2024 07:04:04 PM - INFO - Network accuracy: 91.68%
+04/16/2024 07:04:10 PM - INFO - {'nb_neurons': 64, 'nb_layers': 4, 'activation': 'sigmoid', 'optimizer': 'adam'}
+04/16/2024 07:04:10 PM - INFO - Network accuracy: 94.01%
+04/16/2024 07:04:14 PM - INFO - {'nb_neurons': 64, 'nb_layers': 4, 'activation': 'sigmoid', 'optimizer': 'sgd'}
+04/16/2024 07:04:14 PM - INFO - Network accuracy: 11.35%
+04/16/2024 07:04:19 PM - INFO - {'nb_neurons': 64, 'nb_layers': 4, 'activation': 'sigmoid', 'optimizer': 'adagrad'}
+04/16/2024 07:04:19 PM - INFO - Network accuracy: 11.35%
+04/16/2024 07:04:23 PM - INFO - {'nb_neurons': 64, 'nb_layers': 4, 'activation': 'sigmoid', 'optimizer': 'adadelta'}
+04/16/2024 07:04:23 PM - INFO - Network accuracy: 10.09%
+04/16/2024 07:04:28 PM - INFO - {'nb_neurons': 64, 'nb_layers': 4, 'activation': 'sigmoid', 'optimizer': 'adamax'}
+04/16/2024 07:04:28 PM - INFO - Network accuracy: 88.23%
+04/16/2024 07:04:33 PM - INFO - {'nb_neurons': 64, 'nb_layers': 4, 'activation': 'sigmoid', 'optimizer': 'nadam'}
+04/16/2024 07:04:33 PM - INFO - Network accuracy: 93.77%
+04/16/2024 07:04:45 PM - INFO - {'nb_neurons': 128, 'nb_layers': 1, 'activation': 'relu', 'optimizer': 'rmsprop'}
+04/16/2024 07:04:45 PM - INFO - Network accuracy: 98.27%
+04/16/2024 07:04:49 PM - INFO - {'nb_neurons': 128, 'nb_layers': 1, 'activation': 'relu', 'optimizer': 'adam'}
+04/16/2024 07:04:49 PM - INFO - Network accuracy: 97.50%
+04/16/2024 07:04:52 PM - INFO - {'nb_neurons': 128, 'nb_layers': 1, 'activation': 'relu', 'optimizer': 'sgd'}
+04/16/2024 07:04:52 PM - INFO - Network accuracy: 90.84%
+04/16/2024 07:04:56 PM - INFO - {'nb_neurons': 128, 'nb_layers': 1, 'activation': 'relu', 'optimizer': 'adagrad'}
+04/16/2024 07:04:56 PM - INFO - Network accuracy: 86.61%
+04/16/2024 07:05:01 PM - INFO - {'nb_neurons': 128, 'nb_layers': 1, 'activation': 'relu', 'optimizer': 'adadelta'}
+04/16/2024 07:05:01 PM - INFO - Network accuracy: 33.53%
+04/16/2024 07:05:05 PM - INFO - {'nb_neurons': 128, 'nb_layers': 1, 'activation': 'relu', 'optimizer': 'adamax'}
+04/16/2024 07:05:05 PM - INFO - Network accuracy: 95.85%
+04/16/2024 07:05:09 PM - INFO - {'nb_neurons': 128, 'nb_layers': 1, 'activation': 'relu', 'optimizer': 'nadam'}
+04/16/2024 07:05:09 PM - INFO - Network accuracy: 97.51%
+04/16/2024 07:05:13 PM - INFO - {'nb_neurons': 128, 'nb_layers': 1, 'activation': 'elu', 'optimizer': 'rmsprop'}
+04/16/2024 07:05:13 PM - INFO - Network accuracy: 96.91%
+04/16/2024 07:05:17 PM - INFO - {'nb_neurons': 128, 'nb_layers': 1, 'activation': 'elu', 'optimizer': 'adam'}
+04/16/2024 07:05:17 PM - INFO - Network accuracy: 96.71%
+04/16/2024 07:05:20 PM - INFO - {'nb_neurons': 128, 'nb_layers': 1, 'activation': 'elu', 'optimizer': 'sgd'}
+04/16/2024 07:05:20 PM - INFO - Network accuracy: 90.33%
+04/16/2024 07:05:24 PM - INFO - {'nb_neurons': 128, 'nb_layers': 1, 'activation': 'elu', 'optimizer': 'adagrad'}
+04/16/2024 07:05:24 PM - INFO - Network accuracy: 87.29%
+04/16/2024 07:05:27 PM - INFO - {'nb_neurons': 128, 'nb_layers': 1, 'activation': 'elu', 'optimizer': 'adadelta'}
+04/16/2024 07:05:27 PM - INFO - Network accuracy: 36.80%
+04/16/2024 07:05:31 PM - INFO - {'nb_neurons': 128, 'nb_layers': 1, 'activation': 'elu', 'optimizer': 'adamax'}
+04/16/2024 07:05:31 PM - INFO - Network accuracy: 94.53%
+04/16/2024 07:05:36 PM - INFO - {'nb_neurons': 128, 'nb_layers': 1, 'activation': 'elu', 'optimizer': 'nadam'}
+04/16/2024 07:05:36 PM - INFO - Network accuracy: 96.69%
+04/16/2024 07:05:39 PM - INFO - {'nb_neurons': 128, 'nb_layers': 1, 'activation': 'tanh', 'optimizer': 'rmsprop'}
+04/16/2024 07:05:39 PM - INFO - Network accuracy: 96.39%
+04/16/2024 07:05:43 PM - INFO - {'nb_neurons': 128, 'nb_layers': 1, 'activation': 'tanh', 'optimizer': 'adam'}
+04/16/2024 07:05:43 PM - INFO - Network accuracy: 96.36%
+04/16/2024 07:05:46 PM - INFO - {'nb_neurons': 128, 'nb_layers': 1, 'activation': 'tanh', 'optimizer': 'sgd'}
+04/16/2024 07:05:46 PM - INFO - Network accuracy: 90.49%
+04/16/2024 07:05:49 PM - INFO - {'nb_neurons': 128, 'nb_layers': 1, 'activation': 'tanh', 'optimizer': 'adagrad'}
+04/16/2024 07:05:49 PM - INFO - Network accuracy: 86.50%
+04/16/2024 07:05:53 PM - INFO - {'nb_neurons': 128, 'nb_layers': 1, 'activation': 'tanh', 'optimizer': 'adadelta'}
+04/16/2024 07:05:53 PM - INFO - Network accuracy: 43.72%
+04/16/2024 07:05:58 PM - INFO - {'nb_neurons': 128, 'nb_layers': 1, 'activation': 'tanh', 'optimizer': 'adamax'}
+04/16/2024 07:05:58 PM - INFO - Network accuracy: 94.11%
+04/16/2024 07:06:02 PM - INFO - {'nb_neurons': 128, 'nb_layers': 1, 'activation': 'tanh', 'optimizer': 'nadam'}
+04/16/2024 07:06:02 PM - INFO - Network accuracy: 96.50%
+04/16/2024 07:06:06 PM - INFO - {'nb_neurons': 128, 'nb_layers': 1, 'activation': 'sigmoid', 'optimizer': 'rmsprop'}
+04/16/2024 07:06:06 PM - INFO - Network accuracy: 95.55%
+04/16/2024 07:06:09 PM - INFO - {'nb_neurons': 128, 'nb_layers': 1, 'activation': 'sigmoid', 'optimizer': 'adam'}
+04/16/2024 07:06:09 PM - INFO - Network accuracy: 95.40%
+04/16/2024 07:06:12 PM - INFO - {'nb_neurons': 128, 'nb_layers': 1, 'activation': 'sigmoid', 'optimizer': 'sgd'}
+04/16/2024 07:06:12 PM - INFO - Network accuracy: 84.23%
+04/16/2024 07:06:16 PM - INFO - {'nb_neurons': 128, 'nb_layers': 1, 'activation': 'sigmoid', 'optimizer': 'adagrad'}
+04/16/2024 07:06:16 PM - INFO - Network accuracy: 72.41%
+04/16/2024 07:06:20 PM - INFO - {'nb_neurons': 128, 'nb_layers': 1, 'activation': 'sigmoid', 'optimizer': 'adadelta'}
+04/16/2024 07:06:20 PM - INFO - Network accuracy: 22.17%
+04/16/2024 07:06:23 PM - INFO - {'nb_neurons': 128, 'nb_layers': 1, 'activation': 'sigmoid', 'optimizer': 'adamax'}
+04/16/2024 07:06:23 PM - INFO - Network accuracy: 92.98%
+04/16/2024 07:06:27 PM - INFO - {'nb_neurons': 128, 'nb_layers': 1, 'activation': 'sigmoid', 'optimizer': 'nadam'}
+04/16/2024 07:06:27 PM - INFO - Network accuracy: 95.34%
+04/16/2024 07:06:31 PM - INFO - {'nb_neurons': 128, 'nb_layers': 2, 'activation': 'relu', 'optimizer': 'rmsprop'}
+04/16/2024 07:06:31 PM - INFO - Network accuracy: 97.63%
+04/16/2024 07:06:36 PM - INFO - {'nb_neurons': 128, 'nb_layers': 2, 'activation': 'relu', 'optimizer': 'adam'}
+04/16/2024 07:06:36 PM - INFO - Network accuracy: 97.78%
+04/16/2024 07:06:39 PM - INFO - {'nb_neurons': 128, 'nb_layers': 2, 'activation': 'relu', 'optimizer': 'sgd'}
+04/16/2024 07:06:39 PM - INFO - Network accuracy: 91.48%
+04/16/2024 07:06:44 PM - INFO - {'nb_neurons': 128, 'nb_layers': 2, 'activation': 'relu', 'optimizer': 'adagrad'}
+04/16/2024 07:06:44 PM - INFO - Network accuracy: 85.87%
+04/16/2024 07:06:49 PM - INFO - {'nb_neurons': 128, 'nb_layers': 2, 'activation': 'relu', 'optimizer': 'adadelta'}
+04/16/2024 07:06:49 PM - INFO - Network accuracy: 28.15%
+04/16/2024 07:06:53 PM - INFO - {'nb_neurons': 128, 'nb_layers': 2, 'activation': 'relu', 'optimizer': 'adamax'}
+04/16/2024 07:06:53 PM - INFO - Network accuracy: 96.61%
+04/16/2024 07:06:58 PM - INFO - {'nb_neurons': 128, 'nb_layers': 2, 'activation': 'relu', 'optimizer': 'nadam'}
+04/16/2024 07:06:58 PM - INFO - Network accuracy: 97.76%
+04/16/2024 07:07:03 PM - INFO - {'nb_neurons': 128, 'nb_layers': 2, 'activation': 'elu', 'optimizer': 'rmsprop'}
+04/16/2024 07:07:03 PM - INFO - Network accuracy: 97.05%
+04/16/2024 07:07:07 PM - INFO - {'nb_neurons': 128, 'nb_layers': 2, 'activation': 'elu', 'optimizer': 'adam'}
+04/16/2024 07:07:07 PM - INFO - Network accuracy: 96.85%
+04/16/2024 07:07:10 PM - INFO - {'nb_neurons': 128, 'nb_layers': 2, 'activation': 'elu', 'optimizer': 'sgd'}
+04/16/2024 07:07:10 PM - INFO - Network accuracy: 91.28%
+04/16/2024 07:07:15 PM - INFO - {'nb_neurons': 128, 'nb_layers': 2, 'activation': 'elu', 'optimizer': 'adagrad'}
+04/16/2024 07:07:15 PM - INFO - Network accuracy: 87.71%
+04/16/2024 07:07:20 PM - INFO - {'nb_neurons': 128, 'nb_layers': 2, 'activation': 'elu', 'optimizer': 'adadelta'}
+04/16/2024 07:07:20 PM - INFO - Network accuracy: 51.48%
+04/16/2024 07:07:25 PM - INFO - {'nb_neurons': 128, 'nb_layers': 2, 'activation': 'elu', 'optimizer': 'adamax'}
+04/16/2024 07:07:25 PM - INFO - Network accuracy: 95.23%
+04/16/2024 07:07:30 PM - INFO - {'nb_neurons': 128, 'nb_layers': 2, 'activation': 'elu', 'optimizer': 'nadam'}
+04/16/2024 07:07:30 PM - INFO - Network accuracy: 97.21%
+04/16/2024 07:07:35 PM - INFO - {'nb_neurons': 128, 'nb_layers': 2, 'activation': 'tanh', 'optimizer': 'rmsprop'}
+04/16/2024 07:07:35 PM - INFO - Network accuracy: 96.31%
+04/16/2024 07:07:39 PM - INFO - {'nb_neurons': 128, 'nb_layers': 2, 'activation': 'tanh', 'optimizer': 'adam'}
+04/16/2024 07:07:39 PM - INFO - Network accuracy: 96.63%
+04/16/2024 07:07:43 PM - INFO - {'nb_neurons': 128, 'nb_layers': 2, 'activation': 'tanh', 'optimizer': 'sgd'}
+04/16/2024 07:07:43 PM - INFO - Network accuracy: 91.07%
+04/16/2024 07:07:47 PM - INFO - {'nb_neurons': 128, 'nb_layers': 2, 'activation': 'tanh', 'optimizer': 'adagrad'}
+04/16/2024 07:07:47 PM - INFO - Network accuracy: 87.00%
+04/16/2024 07:07:51 PM - INFO - {'nb_neurons': 128, 'nb_layers': 2, 'activation': 'tanh', 'optimizer': 'adadelta'}
+04/16/2024 07:07:51 PM - INFO - Network accuracy: 47.45%
+04/16/2024 07:07:57 PM - INFO - {'nb_neurons': 128, 'nb_layers': 2, 'activation': 'tanh', 'optimizer': 'adamax'}
+04/16/2024 07:07:57 PM - INFO - Network accuracy: 95.10%
+04/16/2024 07:08:01 PM - INFO - {'nb_neurons': 128, 'nb_layers': 2, 'activation': 'tanh', 'optimizer': 'nadam'}
+04/16/2024 07:08:01 PM - INFO - Network accuracy: 96.46%
+04/16/2024 07:08:05 PM - INFO - {'nb_neurons': 128, 'nb_layers': 2, 'activation': 'sigmoid', 'optimizer': 'rmsprop'}
+04/16/2024 07:08:05 PM - INFO - Network accuracy: 95.66%
+04/16/2024 07:08:10 PM - INFO - {'nb_neurons': 128, 'nb_layers': 2, 'activation': 'sigmoid', 'optimizer': 'adam'}
+04/16/2024 07:08:10 PM - INFO - Network accuracy: 95.64%
+04/16/2024 07:08:13 PM - INFO - {'nb_neurons': 128, 'nb_layers': 2, 'activation': 'sigmoid', 'optimizer': 'sgd'}
+04/16/2024 07:08:13 PM - INFO - Network accuracy: 58.68%
+04/16/2024 07:08:17 PM - INFO - {'nb_neurons': 128, 'nb_layers': 2, 'activation': 'sigmoid', 'optimizer': 'adagrad'}
+04/16/2024 07:08:17 PM - INFO - Network accuracy: 27.05%
+04/16/2024 07:08:22 PM - INFO - {'nb_neurons': 128, 'nb_layers': 2, 'activation': 'sigmoid', 'optimizer': 'adadelta'}
+04/16/2024 07:08:22 PM - INFO - Network accuracy: 13.66%
+04/16/2024 07:08:27 PM - INFO - {'nb_neurons': 128, 'nb_layers': 2, 'activation': 'sigmoid', 'optimizer': 'adamax'}
+04/16/2024 07:08:27 PM - INFO - Network accuracy: 93.01%
+04/16/2024 07:08:31 PM - INFO - {'nb_neurons': 128, 'nb_layers': 2, 'activation': 'sigmoid', 'optimizer': 'nadam'}
+04/16/2024 07:08:31 PM - INFO - Network accuracy: 95.62%
+04/16/2024 07:08:36 PM - INFO - {'nb_neurons': 128, 'nb_layers': 3, 'activation': 'relu', 'optimizer': 'rmsprop'}
+04/16/2024 07:08:36 PM - INFO - Network accuracy: 97.53%
+04/16/2024 07:08:40 PM - INFO - {'nb_neurons': 128, 'nb_layers': 3, 'activation': 'relu', 'optimizer': 'adam'}
+04/16/2024 07:08:40 PM - INFO - Network accuracy: 97.63%
+04/16/2024 07:08:44 PM - INFO - {'nb_neurons': 128, 'nb_layers': 3, 'activation': 'relu', 'optimizer': 'sgd'}
+04/16/2024 07:08:44 PM - INFO - Network accuracy: 91.63%
+04/16/2024 07:08:49 PM - INFO - {'nb_neurons': 128, 'nb_layers': 3, 'activation': 'relu', 'optimizer': 'adagrad'}
+04/16/2024 07:08:49 PM - INFO - Network accuracy: 84.78%
+04/16/2024 07:08:54 PM - INFO - {'nb_neurons': 128, 'nb_layers': 3, 'activation': 'relu', 'optimizer': 'adadelta'}
+04/16/2024 07:08:54 PM - INFO - Network accuracy: 34.39%
+04/16/2024 07:08:59 PM - INFO - {'nb_neurons': 128, 'nb_layers': 3, 'activation': 'relu', 'optimizer': 'adamax'}
+04/16/2024 07:08:59 PM - INFO - Network accuracy: 96.51%
+04/16/2024 07:09:04 PM - INFO - {'nb_neurons': 128, 'nb_layers': 3, 'activation': 'relu', 'optimizer': 'nadam'}
+04/16/2024 07:09:04 PM - INFO - Network accuracy: 97.54%
+04/16/2024 07:09:09 PM - INFO - {'nb_neurons': 128, 'nb_layers': 3, 'activation': 'elu', 'optimizer': 'rmsprop'}
+04/16/2024 07:09:09 PM - INFO - Network accuracy: 97.04%
+04/16/2024 07:09:14 PM - INFO - {'nb_neurons': 128, 'nb_layers': 3, 'activation': 'elu', 'optimizer': 'adam'}
+04/16/2024 07:09:14 PM - INFO - Network accuracy: 97.06%
+04/16/2024 07:09:18 PM - INFO - {'nb_neurons': 128, 'nb_layers': 3, 'activation': 'elu', 'optimizer': 'sgd'}
+04/16/2024 07:09:18 PM - INFO - Network accuracy: 91.74%
+04/16/2024 07:09:22 PM - INFO - {'nb_neurons': 128, 'nb_layers': 3, 'activation': 'elu', 'optimizer': 'adagrad'}
+04/16/2024 07:09:22 PM - INFO - Network accuracy: 88.34%
+04/16/2024 07:09:28 PM - INFO - {'nb_neurons': 128, 'nb_layers': 3, 'activation': 'elu', 'optimizer': 'adadelta'}
+04/16/2024 07:09:28 PM - INFO - Network accuracy: 54.01%
+04/16/2024 07:09:33 PM - INFO - {'nb_neurons': 128, 'nb_layers': 3, 'activation': 'elu', 'optimizer': 'adamax'}
+04/16/2024 07:09:33 PM - INFO - Network accuracy: 95.70%
+04/16/2024 07:09:38 PM - INFO - {'nb_neurons': 128, 'nb_layers': 3, 'activation': 'elu', 'optimizer': 'nadam'}
+04/16/2024 07:09:38 PM - INFO - Network accuracy: 97.18%
+04/16/2024 07:09:43 PM - INFO - {'nb_neurons': 128, 'nb_layers': 3, 'activation': 'tanh', 'optimizer': 'rmsprop'}
+04/16/2024 07:09:43 PM - INFO - Network accuracy: 96.67%
+04/16/2024 07:09:47 PM - INFO - {'nb_neurons': 128, 'nb_layers': 3, 'activation': 'tanh', 'optimizer': 'adam'}
+04/16/2024 07:09:47 PM - INFO - Network accuracy: 96.89%
+04/16/2024 07:09:51 PM - INFO - {'nb_neurons': 128, 'nb_layers': 3, 'activation': 'tanh', 'optimizer': 'sgd'}
+04/16/2024 07:09:51 PM - INFO - Network accuracy: 91.36%
+04/16/2024 07:09:56 PM - INFO - {'nb_neurons': 128, 'nb_layers': 3, 'activation': 'tanh', 'optimizer': 'adagrad'}
+04/16/2024 07:09:56 PM - INFO - Network accuracy: 88.05%
+04/16/2024 07:10:02 PM - INFO - {'nb_neurons': 128, 'nb_layers': 3, 'activation': 'tanh', 'optimizer': 'adadelta'}
+04/16/2024 07:10:02 PM - INFO - Network accuracy: 59.38%
+04/16/2024 07:10:08 PM - INFO - {'nb_neurons': 128, 'nb_layers': 3, 'activation': 'tanh', 'optimizer': 'adamax'}
+04/16/2024 07:10:08 PM - INFO - Network accuracy: 95.14%
+04/16/2024 07:10:13 PM - INFO - {'nb_neurons': 128, 'nb_layers': 3, 'activation': 'tanh', 'optimizer': 'nadam'}
+04/16/2024 07:10:13 PM - INFO - Network accuracy: 96.76%
+04/16/2024 07:10:18 PM - INFO - {'nb_neurons': 128, 'nb_layers': 3, 'activation': 'sigmoid', 'optimizer': 'rmsprop'}
+04/16/2024 07:10:18 PM - INFO - Network accuracy: 95.09%
+04/16/2024 07:10:23 PM - INFO - {'nb_neurons': 128, 'nb_layers': 3, 'activation': 'sigmoid', 'optimizer': 'adam'}
+04/16/2024 07:10:23 PM - INFO - Network accuracy: 95.67%
+04/16/2024 07:10:27 PM - INFO - {'nb_neurons': 128, 'nb_layers': 3, 'activation': 'sigmoid', 'optimizer': 'sgd'}
+04/16/2024 07:10:27 PM - INFO - Network accuracy: 11.35%
+04/16/2024 07:10:31 PM - INFO - {'nb_neurons': 128, 'nb_layers': 3, 'activation': 'sigmoid', 'optimizer': 'adagrad'}
+04/16/2024 07:10:31 PM - INFO - Network accuracy: 11.35%
+04/16/2024 07:10:37 PM - INFO - {'nb_neurons': 128, 'nb_layers': 3, 'activation': 'sigmoid', 'optimizer': 'adadelta'}
+04/16/2024 07:10:37 PM - INFO - Network accuracy: 11.35%
+04/16/2024 07:10:42 PM - INFO - {'nb_neurons': 128, 'nb_layers': 3, 'activation': 'sigmoid', 'optimizer': 'adamax'}
+04/16/2024 07:10:42 PM - INFO - Network accuracy: 92.09%
+04/16/2024 07:10:47 PM - INFO - {'nb_neurons': 128, 'nb_layers': 3, 'activation': 'sigmoid', 'optimizer': 'nadam'}
+04/16/2024 07:10:47 PM - INFO - Network accuracy: 96.01%
+04/16/2024 07:10:52 PM - INFO - {'nb_neurons': 128, 'nb_layers': 4, 'activation': 'relu', 'optimizer': 'rmsprop'}
+04/16/2024 07:10:52 PM - INFO - Network accuracy: 97.34%
+04/16/2024 07:10:58 PM - INFO - {'nb_neurons': 128, 'nb_layers': 4, 'activation': 'relu', 'optimizer': 'adam'}
+04/16/2024 07:10:58 PM - INFO - Network accuracy: 97.58%
+04/16/2024 07:11:02 PM - INFO - {'nb_neurons': 128, 'nb_layers': 4, 'activation': 'relu', 'optimizer': 'sgd'}
+04/16/2024 07:11:02 PM - INFO - Network accuracy: 91.20%
+04/16/2024 07:11:07 PM - INFO - {'nb_neurons': 128, 'nb_layers': 4, 'activation': 'relu', 'optimizer': 'adagrad'}
+04/16/2024 07:11:07 PM - INFO - Network accuracy: 78.56%
+04/16/2024 07:11:13 PM - INFO - {'nb_neurons': 128, 'nb_layers': 4, 'activation': 'relu', 'optimizer': 'adadelta'}
+04/16/2024 07:11:13 PM - INFO - Network accuracy: 22.84%
+04/16/2024 07:11:19 PM - INFO - {'nb_neurons': 128, 'nb_layers': 4, 'activation': 'relu', 'optimizer': 'adamax'}
+04/16/2024 07:11:19 PM - INFO - Network accuracy: 96.80%
+04/16/2024 07:11:25 PM - INFO - {'nb_neurons': 128, 'nb_layers': 4, 'activation': 'relu', 'optimizer': 'nadam'}
+04/16/2024 07:11:25 PM - INFO - Network accuracy: 97.62%
+04/16/2024 07:11:30 PM - INFO - {'nb_neurons': 128, 'nb_layers': 4, 'activation': 'elu', 'optimizer': 'rmsprop'}
+04/16/2024 07:11:30 PM - INFO - Network accuracy: 97.04%
+04/16/2024 07:11:35 PM - INFO - {'nb_neurons': 128, 'nb_layers': 4, 'activation': 'elu', 'optimizer': 'adam'}
+04/16/2024 07:11:35 PM - INFO - Network accuracy: 97.01%
+04/16/2024 07:11:40 PM - INFO - {'nb_neurons': 128, 'nb_layers': 4, 'activation': 'elu', 'optimizer': 'sgd'}
+04/16/2024 07:11:40 PM - INFO - Network accuracy: 91.83%
+04/16/2024 07:11:45 PM - INFO - {'nb_neurons': 128, 'nb_layers': 4, 'activation': 'elu', 'optimizer': 'adagrad'}
+04/16/2024 07:11:45 PM - INFO - Network accuracy: 88.51%
+04/16/2024 07:11:51 PM - INFO - {'nb_neurons': 128, 'nb_layers': 4, 'activation': 'elu', 'optimizer': 'adadelta'}
+04/16/2024 07:11:51 PM - INFO - Network accuracy: 55.65%
+04/16/2024 07:11:57 PM - INFO - {'nb_neurons': 128, 'nb_layers': 4, 'activation': 'elu', 'optimizer': 'adamax'}
+04/16/2024 07:11:57 PM - INFO - Network accuracy: 95.82%
+04/16/2024 07:12:03 PM - INFO - {'nb_neurons': 128, 'nb_layers': 4, 'activation': 'elu', 'optimizer': 'nadam'}
+04/16/2024 07:12:03 PM - INFO - Network accuracy: 96.95%
+04/16/2024 07:12:09 PM - INFO - {'nb_neurons': 128, 'nb_layers': 4, 'activation': 'tanh', 'optimizer': 'rmsprop'}
+04/16/2024 07:12:09 PM - INFO - Network accuracy: 96.46%
+04/16/2024 07:12:16 PM - INFO - {'nb_neurons': 128, 'nb_layers': 4, 'activation': 'tanh', 'optimizer': 'adam'}
+04/16/2024 07:12:16 PM - INFO - Network accuracy: 96.64%
+04/16/2024 07:12:20 PM - INFO - {'nb_neurons': 128, 'nb_layers': 4, 'activation': 'tanh', 'optimizer': 'sgd'}
+04/16/2024 07:12:20 PM - INFO - Network accuracy: 91.24%
+04/16/2024 07:12:25 PM - INFO - {'nb_neurons': 128, 'nb_layers': 4, 'activation': 'tanh', 'optimizer': 'adagrad'}
+04/16/2024 07:12:25 PM - INFO - Network accuracy: 87.97%
+04/16/2024 07:12:32 PM - INFO - {'nb_neurons': 128, 'nb_layers': 4, 'activation': 'tanh', 'optimizer': 'adadelta'}
+04/16/2024 07:12:32 PM - INFO - Network accuracy: 55.03%
+04/16/2024 07:12:38 PM - INFO - {'nb_neurons': 128, 'nb_layers': 4, 'activation': 'tanh', 'optimizer': 'adamax'}
+04/16/2024 07:12:38 PM - INFO - Network accuracy: 95.23%
+04/16/2024 07:12:44 PM - INFO - {'nb_neurons': 128, 'nb_layers': 4, 'activation': 'tanh', 'optimizer': 'nadam'}
+04/16/2024 07:12:44 PM - INFO - Network accuracy: 96.65%
+04/16/2024 07:12:50 PM - INFO - {'nb_neurons': 128, 'nb_layers': 4, 'activation': 'sigmoid', 'optimizer': 'rmsprop'}
+04/16/2024 07:12:50 PM - INFO - Network accuracy: 94.25%
+04/16/2024 07:12:56 PM - INFO - {'nb_neurons': 128, 'nb_layers': 4, 'activation': 'sigmoid', 'optimizer': 'adam'}
+04/16/2024 07:12:56 PM - INFO - Network accuracy: 95.42%
+04/16/2024 07:13:00 PM - INFO - {'nb_neurons': 128, 'nb_layers': 4, 'activation': 'sigmoid', 'optimizer': 'sgd'}
+04/16/2024 07:13:00 PM - INFO - Network accuracy: 11.35%
+04/16/2024 07:13:05 PM - INFO - {'nb_neurons': 128, 'nb_layers': 4, 'activation': 'sigmoid', 'optimizer': 'adagrad'}
+04/16/2024 07:13:05 PM - INFO - Network accuracy: 11.35%
+04/16/2024 07:13:12 PM - INFO - {'nb_neurons': 128, 'nb_layers': 4, 'activation': 'sigmoid', 'optimizer': 'adadelta'}
+04/16/2024 07:13:12 PM - INFO - Network accuracy: 10.32%
+04/16/2024 07:13:18 PM - INFO - {'nb_neurons': 128, 'nb_layers': 4, 'activation': 'sigmoid', 'optimizer': 'adamax'}
+04/16/2024 07:13:18 PM - INFO - Network accuracy: 90.72%
+04/16/2024 07:13:24 PM - INFO - {'nb_neurons': 128, 'nb_layers': 4, 'activation': 'sigmoid', 'optimizer': 'nadam'}
+04/16/2024 07:13:24 PM - INFO - Network accuracy: 95.50%
+04/16/2024 07:13:29 PM - INFO - {'nb_neurons': 256, 'nb_layers': 1, 'activation': 'relu', 'optimizer': 'rmsprop'}
+04/16/2024 07:13:29 PM - INFO - Network accuracy: 97.86%
+04/16/2024 07:13:33 PM - INFO - {'nb_neurons': 256, 'nb_layers': 1, 'activation': 'relu', 'optimizer': 'adam'}
+04/16/2024 07:13:33 PM - INFO - Network accuracy: 97.77%
+04/16/2024 07:13:37 PM - INFO - {'nb_neurons': 256, 'nb_layers': 1, 'activation': 'relu', 'optimizer': 'sgd'}
+04/16/2024 07:13:37 PM - INFO - Network accuracy: 91.08%
+04/16/2024 07:13:41 PM - INFO - {'nb_neurons': 256, 'nb_layers': 1, 'activation': 'relu', 'optimizer': 'adagrad'}
+04/16/2024 07:13:41 PM - INFO - Network accuracy: 86.98%
+04/16/2024 07:13:47 PM - INFO - {'nb_neurons': 256, 'nb_layers': 1, 'activation': 'relu', 'optimizer': 'adadelta'}
+04/16/2024 07:13:47 PM - INFO - Network accuracy: 56.12%
+04/16/2024 07:13:53 PM - INFO - {'nb_neurons': 256, 'nb_layers': 1, 'activation': 'relu', 'optimizer': 'adamax'}
+04/16/2024 07:13:53 PM - INFO - Network accuracy: 96.48%
+04/16/2024 07:13:58 PM - INFO - {'nb_neurons': 256, 'nb_layers': 1, 'activation': 'relu', 'optimizer': 'nadam'}
+04/16/2024 07:13:58 PM - INFO - Network accuracy: 97.81%
+04/16/2024 07:14:03 PM - INFO - {'nb_neurons': 256, 'nb_layers': 1, 'activation': 'elu', 'optimizer': 'rmsprop'}
+04/16/2024 07:14:03 PM - INFO - Network accuracy: 96.99%
+04/16/2024 07:14:08 PM - INFO - {'nb_neurons': 256, 'nb_layers': 1, 'activation': 'elu', 'optimizer': 'adam'}
+04/16/2024 07:14:08 PM - INFO - Network accuracy: 97.03%
+04/16/2024 07:14:12 PM - INFO - {'nb_neurons': 256, 'nb_layers': 1, 'activation': 'elu', 'optimizer': 'sgd'}
+04/16/2024 07:14:12 PM - INFO - Network accuracy: 90.69%
+04/16/2024 07:14:16 PM - INFO - {'nb_neurons': 256, 'nb_layers': 1, 'activation': 'elu', 'optimizer': 'adagrad'}
+04/16/2024 07:14:16 PM - INFO - Network accuracy: 87.65%
+04/16/2024 07:14:23 PM - INFO - {'nb_neurons': 256, 'nb_layers': 1, 'activation': 'elu', 'optimizer': 'adadelta'}
+04/16/2024 07:14:23 PM - INFO - Network accuracy: 57.38%
+04/16/2024 07:14:28 PM - INFO - {'nb_neurons': 256, 'nb_layers': 1, 'activation': 'elu', 'optimizer': 'adamax'}
+04/16/2024 07:14:28 PM - INFO - Network accuracy: 95.01%
+04/16/2024 07:14:34 PM - INFO - {'nb_neurons': 256, 'nb_layers': 1, 'activation': 'elu', 'optimizer': 'nadam'}
+04/16/2024 07:14:34 PM - INFO - Network accuracy: 97.04%
+04/16/2024 07:14:39 PM - INFO - {'nb_neurons': 256, 'nb_layers': 1, 'activation': 'tanh', 'optimizer': 'rmsprop'}
+04/16/2024 07:14:39 PM - INFO - Network accuracy: 96.70%
+04/16/2024 07:14:44 PM - INFO - {'nb_neurons': 256, 'nb_layers': 1, 'activation': 'tanh', 'optimizer': 'adam'}
+04/16/2024 07:14:44 PM - INFO - Network accuracy: 96.69%
+04/16/2024 07:14:47 PM - INFO - {'nb_neurons': 256, 'nb_layers': 1, 'activation': 'tanh', 'optimizer': 'sgd'}
+04/16/2024 07:14:47 PM - INFO - Network accuracy: 90.51%
+04/16/2024 07:14:52 PM - INFO - {'nb_neurons': 256, 'nb_layers': 1, 'activation': 'tanh', 'optimizer': 'adagrad'}
+04/16/2024 07:14:52 PM - INFO - Network accuracy: 87.37%
+04/16/2024 07:14:58 PM - INFO - {'nb_neurons': 256, 'nb_layers': 1, 'activation': 'tanh', 'optimizer': 'adadelta'}
+04/16/2024 07:14:58 PM - INFO - Network accuracy: 61.31%
+04/16/2024 07:15:04 PM - INFO - {'nb_neurons': 256, 'nb_layers': 1, 'activation': 'tanh', 'optimizer': 'adamax'}
+04/16/2024 07:15:04 PM - INFO - Network accuracy: 94.84%
+04/16/2024 07:15:09 PM - INFO - {'nb_neurons': 256, 'nb_layers': 1, 'activation': 'tanh', 'optimizer': 'nadam'}
+04/16/2024 07:15:09 PM - INFO - Network accuracy: 96.97%
+04/16/2024 07:15:14 PM - INFO - {'nb_neurons': 256, 'nb_layers': 1, 'activation': 'sigmoid', 'optimizer': 'rmsprop'}
+04/16/2024 07:15:14 PM - INFO - Network accuracy: 95.90%
+04/16/2024 07:15:19 PM - INFO - {'nb_neurons': 256, 'nb_layers': 1, 'activation': 'sigmoid', 'optimizer': 'adam'}
+04/16/2024 07:15:19 PM - INFO - Network accuracy: 95.75%
+04/16/2024 07:15:23 PM - INFO - {'nb_neurons': 256, 'nb_layers': 1, 'activation': 'sigmoid', 'optimizer': 'sgd'}
+04/16/2024 07:15:23 PM - INFO - Network accuracy: 85.02%
+04/16/2024 07:15:28 PM - INFO - {'nb_neurons': 256, 'nb_layers': 1, 'activation': 'sigmoid', 'optimizer': 'adagrad'}
+04/16/2024 07:15:28 PM - INFO - Network accuracy: 76.37%
+04/16/2024 07:15:34 PM - INFO - {'nb_neurons': 256, 'nb_layers': 1, 'activation': 'sigmoid', 'optimizer': 'adadelta'}
+04/16/2024 07:15:34 PM - INFO - Network accuracy: 37.09%
+04/16/2024 07:15:40 PM - INFO - {'nb_neurons': 256, 'nb_layers': 1, 'activation': 'sigmoid', 'optimizer': 'adamax'}
+04/16/2024 07:15:40 PM - INFO - Network accuracy: 93.37%
+04/16/2024 07:15:45 PM - INFO - {'nb_neurons': 256, 'nb_layers': 1, 'activation': 'sigmoid', 'optimizer': 'nadam'}
+04/16/2024 07:15:45 PM - INFO - Network accuracy: 95.80%
+04/16/2024 07:15:53 PM - INFO - {'nb_neurons': 256, 'nb_layers': 2, 'activation': 'relu', 'optimizer': 'rmsprop'}
+04/16/2024 07:15:53 PM - INFO - Network accuracy: 97.97%
+04/16/2024 07:16:00 PM - INFO - {'nb_neurons': 256, 'nb_layers': 2, 'activation': 'relu', 'optimizer': 'adam'}
+04/16/2024 07:16:00 PM - INFO - Network accuracy: 97.98%
+04/16/2024 07:16:05 PM - INFO - {'nb_neurons': 256, 'nb_layers': 2, 'activation': 'relu', 'optimizer': 'sgd'}
+04/16/2024 07:16:05 PM - INFO - Network accuracy: 91.91%
+04/16/2024 07:16:10 PM - INFO - {'nb_neurons': 256, 'nb_layers': 2, 'activation': 'relu', 'optimizer': 'adagrad'}
+04/16/2024 07:16:10 PM - INFO - Network accuracy: 87.47%
+04/16/2024 07:16:19 PM - INFO - {'nb_neurons': 256, 'nb_layers': 2, 'activation': 'relu', 'optimizer': 'adadelta'}
+04/16/2024 07:16:19 PM - INFO - Network accuracy: 53.72%
+04/16/2024 07:16:27 PM - INFO - {'nb_neurons': 256, 'nb_layers': 2, 'activation': 'relu', 'optimizer': 'adamax'}
+04/16/2024 07:16:27 PM - INFO - Network accuracy: 97.44%
+04/16/2024 07:16:44 PM - INFO - {'nb_neurons': 256, 'nb_layers': 2, 'activation': 'relu', 'optimizer': 'nadam'}
+04/16/2024 07:16:44 PM - INFO - Network accuracy: 98.29%
+04/16/2024 07:16:51 PM - INFO - {'nb_neurons': 256, 'nb_layers': 2, 'activation': 'elu', 'optimizer': 'rmsprop'}
+04/16/2024 07:16:51 PM - INFO - Network accuracy: 97.09%
+04/16/2024 07:16:58 PM - INFO - {'nb_neurons': 256, 'nb_layers': 2, 'activation': 'elu', 'optimizer': 'adam'}
+04/16/2024 07:16:58 PM - INFO - Network accuracy: 97.20%
+04/16/2024 07:17:03 PM - INFO - {'nb_neurons': 256, 'nb_layers': 2, 'activation': 'elu', 'optimizer': 'sgd'}
+04/16/2024 07:17:03 PM - INFO - Network accuracy: 91.47%
+04/16/2024 07:17:08 PM - INFO - {'nb_neurons': 256, 'nb_layers': 2, 'activation': 'elu', 'optimizer': 'adagrad'}
+04/16/2024 07:17:08 PM - INFO - Network accuracy: 88.81%
+04/16/2024 07:17:17 PM - INFO - {'nb_neurons': 256, 'nb_layers': 2, 'activation': 'elu', 'optimizer': 'adadelta'}
+04/16/2024 07:17:17 PM - INFO - Network accuracy: 66.78%
+04/16/2024 07:17:25 PM - INFO - {'nb_neurons': 256, 'nb_layers': 2, 'activation': 'elu', 'optimizer': 'adamax'}
+04/16/2024 07:17:25 PM - INFO - Network accuracy: 96.34%
+04/16/2024 07:17:32 PM - INFO - {'nb_neurons': 256, 'nb_layers': 2, 'activation': 'elu', 'optimizer': 'nadam'}
+04/16/2024 07:17:32 PM - INFO - Network accuracy: 97.57%
+04/16/2024 07:17:39 PM - INFO - {'nb_neurons': 256, 'nb_layers': 2, 'activation': 'tanh', 'optimizer': 'rmsprop'}
+04/16/2024 07:17:39 PM - INFO - Network accuracy: 97.24%
+04/16/2024 07:17:46 PM - INFO - {'nb_neurons': 256, 'nb_layers': 2, 'activation': 'tanh', 'optimizer': 'adam'}
+04/16/2024 07:17:46 PM - INFO - Network accuracy: 97.28%
+04/16/2024 07:17:51 PM - INFO - {'nb_neurons': 256, 'nb_layers': 2, 'activation': 'tanh', 'optimizer': 'sgd'}
+04/16/2024 07:17:51 PM - INFO - Network accuracy: 91.47%
+04/16/2024 07:17:56 PM - INFO - {'nb_neurons': 256, 'nb_layers': 2, 'activation': 'tanh', 'optimizer': 'adagrad'}
+04/16/2024 07:17:56 PM - INFO - Network accuracy: 88.49%
+04/16/2024 07:18:05 PM - INFO - {'nb_neurons': 256, 'nb_layers': 2, 'activation': 'tanh', 'optimizer': 'adadelta'}
+04/16/2024 07:18:05 PM - INFO - Network accuracy: 67.96%
+04/16/2024 07:18:12 PM - INFO - {'nb_neurons': 256, 'nb_layers': 2, 'activation': 'tanh', 'optimizer': 'adamax'}
+04/16/2024 07:18:12 PM - INFO - Network accuracy: 96.02%
+04/16/2024 07:18:20 PM - INFO - {'nb_neurons': 256, 'nb_layers': 2, 'activation': 'tanh', 'optimizer': 'nadam'}
+04/16/2024 07:18:20 PM - INFO - Network accuracy: 97.12%
+04/16/2024 07:18:27 PM - INFO - {'nb_neurons': 256, 'nb_layers': 2, 'activation': 'sigmoid', 'optimizer': 'rmsprop'}
+04/16/2024 07:18:27 PM - INFO - Network accuracy: 96.08%
+04/16/2024 07:18:34 PM - INFO - {'nb_neurons': 256, 'nb_layers': 2, 'activation': 'sigmoid', 'optimizer': 'adam'}
+04/16/2024 07:18:34 PM - INFO - Network accuracy: 96.38%
+04/16/2024 07:18:38 PM - INFO - {'nb_neurons': 256, 'nb_layers': 2, 'activation': 'sigmoid', 'optimizer': 'sgd'}
+04/16/2024 07:18:38 PM - INFO - Network accuracy: 62.81%
+04/16/2024 07:18:44 PM - INFO - {'nb_neurons': 256, 'nb_layers': 2, 'activation': 'sigmoid', 'optimizer': 'adagrad'}
+04/16/2024 07:18:44 PM - INFO - Network accuracy: 42.56%
+04/16/2024 07:18:53 PM - INFO - {'nb_neurons': 256, 'nb_layers': 2, 'activation': 'sigmoid', 'optimizer': 'adadelta'}
+04/16/2024 07:18:53 PM - INFO - Network accuracy: 10.13%
+04/16/2024 07:19:00 PM - INFO - {'nb_neurons': 256, 'nb_layers': 2, 'activation': 'sigmoid', 'optimizer': 'adamax'}
+04/16/2024 07:19:00 PM - INFO - Network accuracy: 93.83%
+04/16/2024 07:19:08 PM - INFO - {'nb_neurons': 256, 'nb_layers': 2, 'activation': 'sigmoid', 'optimizer': 'nadam'}
+04/16/2024 07:19:08 PM - INFO - Network accuracy: 96.42%
+04/16/2024 07:19:16 PM - INFO - {'nb_neurons': 256, 'nb_layers': 3, 'activation': 'relu', 'optimizer': 'rmsprop'}
+04/16/2024 07:19:16 PM - INFO - Network accuracy: 98.05%
+04/16/2024 07:19:24 PM - INFO - {'nb_neurons': 256, 'nb_layers': 3, 'activation': 'relu', 'optimizer': 'adam'}
+04/16/2024 07:19:24 PM - INFO - Network accuracy: 97.88%
+04/16/2024 07:19:30 PM - INFO - {'nb_neurons': 256, 'nb_layers': 3, 'activation': 'relu', 'optimizer': 'sgd'}
+04/16/2024 07:19:30 PM - INFO - Network accuracy: 92.19%
+04/16/2024 07:19:37 PM - INFO - {'nb_neurons': 256, 'nb_layers': 3, 'activation': 'relu', 'optimizer': 'adagrad'}
+04/16/2024 07:19:37 PM - INFO - Network accuracy: 85.59%
+04/16/2024 07:19:47 PM - INFO - {'nb_neurons': 256, 'nb_layers': 3, 'activation': 'relu', 'optimizer': 'adadelta'}
+04/16/2024 07:19:47 PM - INFO - Network accuracy: 56.13%
+04/16/2024 07:19:56 PM - INFO - {'nb_neurons': 256, 'nb_layers': 3, 'activation': 'relu', 'optimizer': 'adamax'}
+04/16/2024 07:19:56 PM - INFO - Network accuracy: 97.50%
+04/16/2024 07:20:06 PM - INFO - {'nb_neurons': 256, 'nb_layers': 3, 'activation': 'relu', 'optimizer': 'nadam'}
+04/16/2024 07:20:06 PM - INFO - Network accuracy: 97.94%
+04/16/2024 07:20:14 PM - INFO - {'nb_neurons': 256, 'nb_layers': 3, 'activation': 'elu', 'optimizer': 'rmsprop'}
+04/16/2024 07:20:14 PM - INFO - Network accuracy: 97.40%
+04/16/2024 07:20:22 PM - INFO - {'nb_neurons': 256, 'nb_layers': 3, 'activation': 'elu', 'optimizer': 'adam'}
+04/16/2024 07:20:22 PM - INFO - Network accuracy: 97.10%
+04/16/2024 07:20:28 PM - INFO - {'nb_neurons': 256, 'nb_layers': 3, 'activation': 'elu', 'optimizer': 'sgd'}
+04/16/2024 07:20:28 PM - INFO - Network accuracy: 91.66%
+04/16/2024 07:20:35 PM - INFO - {'nb_neurons': 256, 'nb_layers': 3, 'activation': 'elu', 'optimizer': 'adagrad'}
+04/16/2024 07:20:35 PM - INFO - Network accuracy: 89.23%
+04/16/2024 07:20:45 PM - INFO - {'nb_neurons': 256, 'nb_layers': 3, 'activation': 'elu', 'optimizer': 'adadelta'}
+04/16/2024 07:20:45 PM - INFO - Network accuracy: 71.61%
+04/16/2024 07:20:54 PM - INFO - {'nb_neurons': 256, 'nb_layers': 3, 'activation': 'elu', 'optimizer': 'adamax'}
+04/16/2024 07:20:54 PM - INFO - Network accuracy: 96.58%
+04/16/2024 07:21:04 PM - INFO - {'nb_neurons': 256, 'nb_layers': 3, 'activation': 'elu', 'optimizer': 'nadam'}
+04/16/2024 07:21:04 PM - INFO - Network accuracy: 97.47%
+04/16/2024 07:21:12 PM - INFO - {'nb_neurons': 256, 'nb_layers': 3, 'activation': 'tanh', 'optimizer': 'rmsprop'}
+04/16/2024 07:21:12 PM - INFO - Network accuracy: 97.04%
+04/16/2024 07:21:21 PM - INFO - {'nb_neurons': 256, 'nb_layers': 3, 'activation': 'tanh', 'optimizer': 'adam'}
+04/16/2024 07:21:21 PM - INFO - Network accuracy: 96.81%
+04/16/2024 07:21:28 PM - INFO - {'nb_neurons': 256, 'nb_layers': 3, 'activation': 'tanh', 'optimizer': 'sgd'}
+04/16/2024 07:21:28 PM - INFO - Network accuracy: 91.56%
+04/16/2024 07:21:35 PM - INFO - {'nb_neurons': 256, 'nb_layers': 3, 'activation': 'tanh', 'optimizer': 'adagrad'}
+04/16/2024 07:21:35 PM - INFO - Network accuracy: 88.75%
+04/16/2024 07:21:46 PM - INFO - {'nb_neurons': 256, 'nb_layers': 3, 'activation': 'tanh', 'optimizer': 'adadelta'}
+04/16/2024 07:21:46 PM - INFO - Network accuracy: 69.55%
+04/16/2024 07:21:56 PM - INFO - {'nb_neurons': 256, 'nb_layers': 3, 'activation': 'tanh', 'optimizer': 'adamax'}
+04/16/2024 07:21:56 PM - INFO - Network accuracy: 96.05%
+04/16/2024 07:22:06 PM - INFO - {'nb_neurons': 256, 'nb_layers': 3, 'activation': 'tanh', 'optimizer': 'nadam'}
+04/16/2024 07:22:06 PM - INFO - Network accuracy: 96.83%
+04/16/2024 07:22:14 PM - INFO - {'nb_neurons': 256, 'nb_layers': 3, 'activation': 'sigmoid', 'optimizer': 'rmsprop'}
+04/16/2024 07:22:14 PM - INFO - Network accuracy: 95.94%
+04/16/2024 07:22:23 PM - INFO - {'nb_neurons': 256, 'nb_layers': 3, 'activation': 'sigmoid', 'optimizer': 'adam'}
+04/16/2024 07:22:23 PM - INFO - Network accuracy: 96.61%
+04/16/2024 07:22:29 PM - INFO - {'nb_neurons': 256, 'nb_layers': 3, 'activation': 'sigmoid', 'optimizer': 'sgd'}
+04/16/2024 07:22:29 PM - INFO - Network accuracy: 20.92%
+04/16/2024 07:22:37 PM - INFO - {'nb_neurons': 256, 'nb_layers': 3, 'activation': 'sigmoid', 'optimizer': 'adagrad'}
+04/16/2024 07:22:37 PM - INFO - Network accuracy: 11.35%
+04/16/2024 07:22:47 PM - INFO - {'nb_neurons': 256, 'nb_layers': 3, 'activation': 'sigmoid', 'optimizer': 'adadelta'}
+04/16/2024 07:22:47 PM - INFO - Network accuracy: 11.35%
+04/16/2024 07:22:57 PM - INFO - {'nb_neurons': 256, 'nb_layers': 3, 'activation': 'sigmoid', 'optimizer': 'adamax'}
+04/16/2024 07:22:57 PM - INFO - Network accuracy: 93.65%
+04/16/2024 07:23:07 PM - INFO - {'nb_neurons': 256, 'nb_layers': 3, 'activation': 'sigmoid', 'optimizer': 'nadam'}
+04/16/2024 07:23:07 PM - INFO - Network accuracy: 96.40%
+04/16/2024 07:23:16 PM - INFO - {'nb_neurons': 256, 'nb_layers': 4, 'activation': 'relu', 'optimizer': 'rmsprop'}
+04/16/2024 07:23:16 PM - INFO - Network accuracy: 97.86%
+04/16/2024 07:23:26 PM - INFO - {'nb_neurons': 256, 'nb_layers': 4, 'activation': 'relu', 'optimizer': 'adam'}
+04/16/2024 07:23:26 PM - INFO - Network accuracy: 97.90%
+04/16/2024 07:23:33 PM - INFO - {'nb_neurons': 256, 'nb_layers': 4, 'activation': 'relu', 'optimizer': 'sgd'}
+04/16/2024 07:23:33 PM - INFO - Network accuracy: 92.37%
+04/16/2024 07:23:41 PM - INFO - {'nb_neurons': 256, 'nb_layers': 4, 'activation': 'relu', 'optimizer': 'adagrad'}
+04/16/2024 07:23:41 PM - INFO - Network accuracy: 85.70%
+04/16/2024 07:23:53 PM - INFO - {'nb_neurons': 256, 'nb_layers': 4, 'activation': 'relu', 'optimizer': 'adadelta'}
+04/16/2024 07:23:53 PM - INFO - Network accuracy: 32.10%
+04/16/2024 07:24:04 PM - INFO - {'nb_neurons': 256, 'nb_layers': 4, 'activation': 'relu', 'optimizer': 'adamax'}
+04/16/2024 07:24:04 PM - INFO - Network accuracy: 97.45%
+04/16/2024 07:24:15 PM - INFO - {'nb_neurons': 256, 'nb_layers': 4, 'activation': 'relu', 'optimizer': 'nadam'}
+04/16/2024 07:24:15 PM - INFO - Network accuracy: 97.72%
+04/16/2024 07:24:25 PM - INFO - {'nb_neurons': 256, 'nb_layers': 4, 'activation': 'elu', 'optimizer': 'rmsprop'}
+04/16/2024 07:24:25 PM - INFO - Network accuracy: 97.08%
+04/16/2024 07:24:35 PM - INFO - {'nb_neurons': 256, 'nb_layers': 4, 'activation': 'elu', 'optimizer': 'adam'}
+04/16/2024 07:24:35 PM - INFO - Network accuracy: 97.05%
+04/16/2024 07:24:42 PM - INFO - {'nb_neurons': 256, 'nb_layers': 4, 'activation': 'elu', 'optimizer': 'sgd'}
+04/16/2024 07:24:42 PM - INFO - Network accuracy: 92.37%
+04/16/2024 07:24:50 PM - INFO - {'nb_neurons': 256, 'nb_layers': 4, 'activation': 'elu', 'optimizer': 'adagrad'}
+04/16/2024 07:24:50 PM - INFO - Network accuracy: 89.62%
+04/16/2024 07:25:03 PM - INFO - {'nb_neurons': 256, 'nb_layers': 4, 'activation': 'elu', 'optimizer': 'adadelta'}
+04/16/2024 07:25:03 PM - INFO - Network accuracy: 71.55%
+04/16/2024 07:25:13 PM - INFO - {'nb_neurons': 256, 'nb_layers': 4, 'activation': 'elu', 'optimizer': 'adamax'}
+04/16/2024 07:25:13 PM - INFO - Network accuracy: 96.63%
+04/16/2024 07:25:25 PM - INFO - {'nb_neurons': 256, 'nb_layers': 4, 'activation': 'elu', 'optimizer': 'nadam'}
+04/16/2024 07:25:25 PM - INFO - Network accuracy: 97.49%
+04/16/2024 07:25:34 PM - INFO - {'nb_neurons': 256, 'nb_layers': 4, 'activation': 'tanh', 'optimizer': 'rmsprop'}
+04/16/2024 07:25:34 PM - INFO - Network accuracy: 96.72%
+04/16/2024 07:25:44 PM - INFO - {'nb_neurons': 256, 'nb_layers': 4, 'activation': 'tanh', 'optimizer': 'adam'}
+04/16/2024 07:25:44 PM - INFO - Network accuracy: 97.01%
+04/16/2024 07:25:51 PM - INFO - {'nb_neurons': 256, 'nb_layers': 4, 'activation': 'tanh', 'optimizer': 'sgd'}
+04/16/2024 07:25:51 PM - INFO - Network accuracy: 91.76%
+04/16/2024 07:25:59 PM - INFO - {'nb_neurons': 256, 'nb_layers': 4, 'activation': 'tanh', 'optimizer': 'adagrad'}
+04/16/2024 07:25:59 PM - INFO - Network accuracy: 89.63%
+04/16/2024 07:26:12 PM - INFO - {'nb_neurons': 256, 'nb_layers': 4, 'activation': 'tanh', 'optimizer': 'adadelta'}
+04/16/2024 07:26:12 PM - INFO - Network accuracy: 74.37%
+04/16/2024 07:26:22 PM - INFO - {'nb_neurons': 256, 'nb_layers': 4, 'activation': 'tanh', 'optimizer': 'adamax'}
+04/16/2024 07:26:22 PM - INFO - Network accuracy: 96.27%
+04/16/2024 07:26:33 PM - INFO - {'nb_neurons': 256, 'nb_layers': 4, 'activation': 'tanh', 'optimizer': 'nadam'}
+04/16/2024 07:26:33 PM - INFO - Network accuracy: 97.09%
+04/16/2024 07:26:43 PM - INFO - {'nb_neurons': 256, 'nb_layers': 4, 'activation': 'sigmoid', 'optimizer': 'rmsprop'}
+04/16/2024 07:26:43 PM - INFO - Network accuracy: 94.95%
+04/16/2024 07:26:53 PM - INFO - {'nb_neurons': 256, 'nb_layers': 4, 'activation': 'sigmoid', 'optimizer': 'adam'}
+04/16/2024 07:26:53 PM - INFO - Network accuracy: 96.30%
+04/16/2024 07:27:00 PM - INFO - {'nb_neurons': 256, 'nb_layers': 4, 'activation': 'sigmoid', 'optimizer': 'sgd'}
+04/16/2024 07:27:00 PM - INFO - Network accuracy: 10.28%
+04/16/2024 07:27:09 PM - INFO - {'nb_neurons': 256, 'nb_layers': 4, 'activation': 'sigmoid', 'optimizer': 'adagrad'}
+04/16/2024 07:27:09 PM - INFO - Network accuracy: 11.35%
+04/16/2024 07:27:21 PM - INFO - {'nb_neurons': 256, 'nb_layers': 4, 'activation': 'sigmoid', 'optimizer': 'adadelta'}
+04/16/2024 07:27:21 PM - INFO - Network accuracy: 9.80%
+04/16/2024 07:27:35 PM - INFO - {'nb_neurons': 256, 'nb_layers': 4, 'activation': 'sigmoid', 'optimizer': 'adamax'}
+04/16/2024 07:27:35 PM - INFO - Network accuracy: 92.85%
+04/16/2024 07:27:47 PM - INFO - {'nb_neurons': 256, 'nb_layers': 4, 'activation': 'sigmoid', 'optimizer': 'nadam'}
+04/16/2024 07:27:47 PM - INFO - Network accuracy: 96.39%
+04/16/2024 07:27:55 PM - INFO - {'nb_neurons': 512, 'nb_layers': 1, 'activation': 'relu', 'optimizer': 'rmsprop'}
+04/16/2024 07:27:55 PM - INFO - Network accuracy: 97.96%
+04/16/2024 07:28:04 PM - INFO - {'nb_neurons': 512, 'nb_layers': 1, 'activation': 'relu', 'optimizer': 'adam'}
+04/16/2024 07:28:04 PM - INFO - Network accuracy: 98.00%
+04/16/2024 07:28:09 PM - INFO - {'nb_neurons': 512, 'nb_layers': 1, 'activation': 'relu', 'optimizer': 'sgd'}
+04/16/2024 07:28:09 PM - INFO - Network accuracy: 91.09%
+04/16/2024 07:28:16 PM - INFO - {'nb_neurons': 512, 'nb_layers': 1, 'activation': 'relu', 'optimizer': 'adagrad'}
+04/16/2024 07:28:16 PM - INFO - Network accuracy: 88.13%
+04/16/2024 07:28:27 PM - INFO - {'nb_neurons': 512, 'nb_layers': 1, 'activation': 'relu', 'optimizer': 'adadelta'}
+04/16/2024 07:28:27 PM - INFO - Network accuracy: 68.26%
+04/16/2024 07:28:37 PM - INFO - {'nb_neurons': 512, 'nb_layers': 1, 'activation': 'relu', 'optimizer': 'adamax'}
+04/16/2024 07:28:37 PM - INFO - Network accuracy: 97.04%
+04/16/2024 07:29:01 PM - INFO - {'nb_neurons': 512, 'nb_layers': 1, 'activation': 'relu', 'optimizer': 'nadam'}
+04/16/2024 07:29:01 PM - INFO - Network accuracy: 98.34%
+04/16/2024 07:29:10 PM - INFO - {'nb_neurons': 512, 'nb_layers': 1, 'activation': 'elu', 'optimizer': 'rmsprop'}
+04/16/2024 07:29:10 PM - INFO - Network accuracy: 97.37%
+04/16/2024 07:29:19 PM - INFO - {'nb_neurons': 512, 'nb_layers': 1, 'activation': 'elu', 'optimizer': 'adam'}
+04/16/2024 07:29:19 PM - INFO - Network accuracy: 97.06%
+04/16/2024 07:29:24 PM - INFO - {'nb_neurons': 512, 'nb_layers': 1, 'activation': 'elu', 'optimizer': 'sgd'}
+04/16/2024 07:29:24 PM - INFO - Network accuracy: 90.68%
+04/16/2024 07:29:31 PM - INFO - {'nb_neurons': 512, 'nb_layers': 1, 'activation': 'elu', 'optimizer': 'adagrad'}
+04/16/2024 07:29:31 PM - INFO - Network accuracy: 87.60%
+04/16/2024 07:29:42 PM - INFO - {'nb_neurons': 512, 'nb_layers': 1, 'activation': 'elu', 'optimizer': 'adadelta'}
+04/16/2024 07:29:42 PM - INFO - Network accuracy: 70.74%
+04/16/2024 07:29:52 PM - INFO - {'nb_neurons': 512, 'nb_layers': 1, 'activation': 'elu', 'optimizer': 'adamax'}
+04/16/2024 07:29:52 PM - INFO - Network accuracy: 95.33%
+04/16/2024 07:30:02 PM - INFO - {'nb_neurons': 512, 'nb_layers': 1, 'activation': 'elu', 'optimizer': 'nadam'}
+04/16/2024 07:30:02 PM - INFO - Network accuracy: 97.37%
+04/16/2024 07:30:10 PM - INFO - {'nb_neurons': 512, 'nb_layers': 1, 'activation': 'tanh', 'optimizer': 'rmsprop'}
+04/16/2024 07:30:10 PM - INFO - Network accuracy: 97.39%
+04/16/2024 07:30:19 PM - INFO - {'nb_neurons': 512, 'nb_layers': 1, 'activation': 'tanh', 'optimizer': 'adam'}
+04/16/2024 07:30:19 PM - INFO - Network accuracy: 97.17%
+04/16/2024 07:30:24 PM - INFO - {'nb_neurons': 512, 'nb_layers': 1, 'activation': 'tanh', 'optimizer': 'sgd'}
+04/16/2024 07:30:24 PM - INFO - Network accuracy: 90.61%
+04/16/2024 07:30:31 PM - INFO - {'nb_neurons': 512, 'nb_layers': 1, 'activation': 'tanh', 'optimizer': 'adagrad'}
+04/16/2024 07:30:31 PM - INFO - Network accuracy: 88.11%
+04/16/2024 07:30:42 PM - INFO - {'nb_neurons': 512, 'nb_layers': 1, 'activation': 'tanh', 'optimizer': 'adadelta'}
+04/16/2024 07:30:42 PM - INFO - Network accuracy: 68.84%
+04/16/2024 07:30:52 PM - INFO - {'nb_neurons': 512, 'nb_layers': 1, 'activation': 'tanh', 'optimizer': 'adamax'}
+04/16/2024 07:30:52 PM - INFO - Network accuracy: 94.98%
+04/16/2024 07:31:02 PM - INFO - {'nb_neurons': 512, 'nb_layers': 1, 'activation': 'tanh', 'optimizer': 'nadam'}
+04/16/2024 07:31:02 PM - INFO - Network accuracy: 96.83%
+04/16/2024 07:31:10 PM - INFO - {'nb_neurons': 512, 'nb_layers': 1, 'activation': 'sigmoid', 'optimizer': 'rmsprop'}
+04/16/2024 07:31:10 PM - INFO - Network accuracy: 95.83%
+04/16/2024 07:31:19 PM - INFO - {'nb_neurons': 512, 'nb_layers': 1, 'activation': 'sigmoid', 'optimizer': 'adam'}
+04/16/2024 07:31:19 PM - INFO - Network accuracy: 96.22%
+04/16/2024 07:31:24 PM - INFO - {'nb_neurons': 512, 'nb_layers': 1, 'activation': 'sigmoid', 'optimizer': 'sgd'}
+04/16/2024 07:31:24 PM - INFO - Network accuracy: 85.81%
+04/16/2024 07:31:31 PM - INFO - {'nb_neurons': 512, 'nb_layers': 1, 'activation': 'sigmoid', 'optimizer': 'adagrad'}
+04/16/2024 07:31:31 PM - INFO - Network accuracy: 77.89%
+04/16/2024 07:31:42 PM - INFO - {'nb_neurons': 512, 'nb_layers': 1, 'activation': 'sigmoid', 'optimizer': 'adadelta'}
+04/16/2024 07:31:42 PM - INFO - Network accuracy: 36.86%
+04/16/2024 07:31:52 PM - INFO - {'nb_neurons': 512, 'nb_layers': 1, 'activation': 'sigmoid', 'optimizer': 'adamax'}
+04/16/2024 07:31:52 PM - INFO - Network accuracy: 93.48%
+04/16/2024 07:32:02 PM - INFO - {'nb_neurons': 512, 'nb_layers': 1, 'activation': 'sigmoid', 'optimizer': 'nadam'}
+04/16/2024 07:32:02 PM - INFO - Network accuracy: 96.29%
+04/16/2024 07:32:16 PM - INFO - {'nb_neurons': 512, 'nb_layers': 2, 'activation': 'relu', 'optimizer': 'rmsprop'}
+04/16/2024 07:32:16 PM - INFO - Network accuracy: 98.26%
+04/16/2024 07:32:30 PM - INFO - {'nb_neurons': 512, 'nb_layers': 2, 'activation': 'relu', 'optimizer': 'adam'}
+04/16/2024 07:32:30 PM - INFO - Network accuracy: 98.06%
+04/16/2024 07:32:38 PM - INFO - {'nb_neurons': 512, 'nb_layers': 2, 'activation': 'relu', 'optimizer': 'sgd'}
+04/16/2024 07:32:38 PM - INFO - Network accuracy: 92.52%
+04/16/2024 07:32:51 PM - INFO - {'nb_neurons': 512, 'nb_layers': 2, 'activation': 'relu', 'optimizer': 'adagrad'}
+04/16/2024 07:32:51 PM - INFO - Network accuracy: 88.68%
+04/16/2024 07:33:10 PM - INFO - {'nb_neurons': 512, 'nb_layers': 2, 'activation': 'relu', 'optimizer': 'adadelta'}
+04/16/2024 07:33:10 PM - INFO - Network accuracy: 71.28%
+04/16/2024 07:33:26 PM - INFO - {'nb_neurons': 512, 'nb_layers': 2, 'activation': 'relu', 'optimizer': 'adamax'}
+04/16/2024 07:33:26 PM - INFO - Network accuracy: 98.02%
+04/16/2024 07:33:43 PM - INFO - {'nb_neurons': 512, 'nb_layers': 2, 'activation': 'relu', 'optimizer': 'nadam'}
+04/16/2024 07:33:43 PM - INFO - Network accuracy: 98.29%
+04/16/2024 07:33:57 PM - INFO - {'nb_neurons': 512, 'nb_layers': 2, 'activation': 'elu', 'optimizer': 'rmsprop'}
+04/16/2024 07:33:57 PM - INFO - Network accuracy: 97.36%
+04/16/2024 07:34:12 PM - INFO - {'nb_neurons': 512, 'nb_layers': 2, 'activation': 'elu', 'optimizer': 'adam'}
+04/16/2024 07:34:12 PM - INFO - Network accuracy: 97.54%
+04/16/2024 07:34:19 PM - INFO - {'nb_neurons': 512, 'nb_layers': 2, 'activation': 'elu', 'optimizer': 'sgd'}
+04/16/2024 07:34:19 PM - INFO - Network accuracy: 91.49%
+04/16/2024 07:34:32 PM - INFO - {'nb_neurons': 512, 'nb_layers': 2, 'activation': 'elu', 'optimizer': 'adagrad'}
+04/16/2024 07:34:32 PM - INFO - Network accuracy: 89.29%
+04/16/2024 07:34:51 PM - INFO - {'nb_neurons': 512, 'nb_layers': 2, 'activation': 'elu', 'optimizer': 'adadelta'}
+04/16/2024 07:34:51 PM - INFO - Network accuracy: 77.69%
+04/16/2024 07:35:08 PM - INFO - {'nb_neurons': 512, 'nb_layers': 2, 'activation': 'elu', 'optimizer': 'adamax'}
+04/16/2024 07:35:08 PM - INFO - Network accuracy: 96.68%
+04/16/2024 07:35:25 PM - INFO - {'nb_neurons': 512, 'nb_layers': 2, 'activation': 'elu', 'optimizer': 'nadam'}
+04/16/2024 07:35:25 PM - INFO - Network accuracy: 97.30%
+04/16/2024 07:35:39 PM - INFO - {'nb_neurons': 512, 'nb_layers': 2, 'activation': 'tanh', 'optimizer': 'rmsprop'}
+04/16/2024 07:35:39 PM - INFO - Network accuracy: 97.64%
+04/16/2024 07:35:54 PM - INFO - {'nb_neurons': 512, 'nb_layers': 2, 'activation': 'tanh', 'optimizer': 'adam'}
+04/16/2024 07:35:54 PM - INFO - Network accuracy: 97.63%
+04/16/2024 07:36:02 PM - INFO - {'nb_neurons': 512, 'nb_layers': 2, 'activation': 'tanh', 'optimizer': 'sgd'}
+04/16/2024 07:36:02 PM - INFO - Network accuracy: 91.27%
+04/16/2024 07:36:14 PM - INFO - {'nb_neurons': 512, 'nb_layers': 2, 'activation': 'tanh', 'optimizer': 'adagrad'}
+04/16/2024 07:36:14 PM - INFO - Network accuracy: 89.25%
+04/16/2024 07:36:34 PM - INFO - {'nb_neurons': 512, 'nb_layers': 2, 'activation': 'tanh', 'optimizer': 'adadelta'}
+04/16/2024 07:36:34 PM - INFO - Network accuracy: 77.89%
+04/16/2024 07:36:49 PM - INFO - {'nb_neurons': 512, 'nb_layers': 2, 'activation': 'tanh', 'optimizer': 'adamax'}
+04/16/2024 07:36:49 PM - INFO - Network accuracy: 96.62%
+04/16/2024 07:37:07 PM - INFO - {'nb_neurons': 512, 'nb_layers': 2, 'activation': 'tanh', 'optimizer': 'nadam'}
+04/16/2024 07:37:07 PM - INFO - Network accuracy: 97.57%
+04/16/2024 07:37:21 PM - INFO - {'nb_neurons': 512, 'nb_layers': 2, 'activation': 'sigmoid', 'optimizer': 'rmsprop'}
+04/16/2024 07:37:21 PM - INFO - Network accuracy: 96.36%
+04/16/2024 07:37:36 PM - INFO - {'nb_neurons': 512, 'nb_layers': 2, 'activation': 'sigmoid', 'optimizer': 'adam'}
+04/16/2024 07:37:36 PM - INFO - Network accuracy: 96.83%
+04/16/2024 10:22:44 PM - INFO - {'nb_neurons': 512, 'nb_layers': 2, 'activation': 'sigmoid', 'optimizer': 'sgd'}
+04/16/2024 10:22:44 PM - INFO - Network accuracy: 64.47%
+04/16/2024 10:22:59 PM - INFO - {'nb_neurons': 512, 'nb_layers': 2, 'activation': 'sigmoid', 'optimizer': 'adagrad'}
+04/16/2024 10:22:59 PM - INFO - Network accuracy: 37.04%
+04/16/2024 10:23:23 PM - INFO - {'nb_neurons': 512, 'nb_layers': 2, 'activation': 'sigmoid', 'optimizer': 'adadelta'}
+04/16/2024 10:23:23 PM - INFO - Network accuracy: 12.87%
+04/16/2024 10:23:42 PM - INFO - {'nb_neurons': 512, 'nb_layers': 2, 'activation': 'sigmoid', 'optimizer': 'adamax'}
+04/16/2024 10:23:42 PM - INFO - Network accuracy: 94.05%
+04/16/2024 10:24:00 PM - INFO - {'nb_neurons': 512, 'nb_layers': 2, 'activation': 'sigmoid', 'optimizer': 'nadam'}
+04/16/2024 10:24:00 PM - INFO - Network accuracy: 96.78%
+04/16/2024 10:24:19 PM - INFO - {'nb_neurons': 512, 'nb_layers': 3, 'activation': 'relu', 'optimizer': 'rmsprop'}
+04/16/2024 10:24:19 PM - INFO - Network accuracy: 98.11%
+04/16/2024 10:24:39 PM - INFO - {'nb_neurons': 512, 'nb_layers': 3, 'activation': 'relu', 'optimizer': 'adam'}
+04/16/2024 10:24:39 PM - INFO - Network accuracy: 97.86%
+04/16/2024 10:24:50 PM - INFO - {'nb_neurons': 512, 'nb_layers': 3, 'activation': 'relu', 'optimizer': 'sgd'}
+04/16/2024 10:24:50 PM - INFO - Network accuracy: 92.62%
+04/16/2024 10:25:07 PM - INFO - {'nb_neurons': 512, 'nb_layers': 3, 'activation': 'relu', 'optimizer': 'adagrad'}
+04/16/2024 10:25:07 PM - INFO - Network accuracy: 88.80%
+04/16/2024 10:25:33 PM - INFO - {'nb_neurons': 512, 'nb_layers': 3, 'activation': 'relu', 'optimizer': 'adadelta'}
+04/16/2024 10:25:33 PM - INFO - Network accuracy: 67.11%
+04/16/2024 10:25:55 PM - INFO - {'nb_neurons': 512, 'nb_layers': 3, 'activation': 'relu', 'optimizer': 'adamax'}
+04/16/2024 10:25:55 PM - INFO - Network accuracy: 98.01%
+04/16/2024 10:26:17 PM - INFO - {'nb_neurons': 512, 'nb_layers': 3, 'activation': 'relu', 'optimizer': 'nadam'}
+04/16/2024 10:26:17 PM - INFO - Network accuracy: 97.85%
+04/16/2024 10:26:37 PM - INFO - {'nb_neurons': 512, 'nb_layers': 3, 'activation': 'elu', 'optimizer': 'rmsprop'}
+04/16/2024 10:26:37 PM - INFO - Network accuracy: 97.16%
+04/16/2024 10:26:57 PM - INFO - {'nb_neurons': 512, 'nb_layers': 3, 'activation': 'elu', 'optimizer': 'adam'}
+04/16/2024 10:26:57 PM - INFO - Network accuracy: 97.29%
+04/16/2024 10:27:14 PM - INFO - {'nb_neurons': 512, 'nb_layers': 3, 'activation': 'elu', 'optimizer': 'sgd'}
+04/16/2024 10:27:14 PM - INFO - Network accuracy: 91.99%
+04/16/2024 10:27:31 PM - INFO - {'nb_neurons': 512, 'nb_layers': 3, 'activation': 'elu', 'optimizer': 'adagrad'}
+04/16/2024 10:27:31 PM - INFO - Network accuracy: 89.75%
+04/16/2024 10:27:59 PM - INFO - {'nb_neurons': 512, 'nb_layers': 3, 'activation': 'elu', 'optimizer': 'adadelta'}
+04/16/2024 10:27:59 PM - INFO - Network accuracy: 78.85%
+04/16/2024 10:28:21 PM - INFO - {'nb_neurons': 512, 'nb_layers': 3, 'activation': 'elu', 'optimizer': 'adamax'}
+04/16/2024 10:28:21 PM - INFO - Network accuracy: 96.98%
+04/16/2024 10:28:45 PM - INFO - {'nb_neurons': 512, 'nb_layers': 3, 'activation': 'elu', 'optimizer': 'nadam'}
+04/16/2024 10:28:45 PM - INFO - Network accuracy: 96.88%
+04/16/2024 10:29:04 PM - INFO - {'nb_neurons': 512, 'nb_layers': 3, 'activation': 'tanh', 'optimizer': 'rmsprop'}
+04/16/2024 10:29:04 PM - INFO - Network accuracy: 96.90%
+04/16/2024 10:29:24 PM - INFO - {'nb_neurons': 512, 'nb_layers': 3, 'activation': 'tanh', 'optimizer': 'adam'}
+04/16/2024 10:29:24 PM - INFO - Network accuracy: 96.85%
+04/16/2024 10:29:36 PM - INFO - {'nb_neurons': 512, 'nb_layers': 3, 'activation': 'tanh', 'optimizer': 'sgd'}
+04/16/2024 10:29:36 PM - INFO - Network accuracy: 91.81%
+04/16/2024 10:29:53 PM - INFO - {'nb_neurons': 512, 'nb_layers': 3, 'activation': 'tanh', 'optimizer': 'adagrad'}
+04/16/2024 10:29:53 PM - INFO - Network accuracy: 89.86%
+04/16/2024 10:30:20 PM - INFO - {'nb_neurons': 512, 'nb_layers': 3, 'activation': 'tanh', 'optimizer': 'adadelta'}
+04/16/2024 10:30:20 PM - INFO - Network accuracy: 80.59%
+04/16/2024 10:30:42 PM - INFO - {'nb_neurons': 512, 'nb_layers': 3, 'activation': 'tanh', 'optimizer': 'adamax'}
+04/16/2024 10:30:42 PM - INFO - Network accuracy: 96.77%
+04/16/2024 10:31:05 PM - INFO - {'nb_neurons': 512, 'nb_layers': 3, 'activation': 'tanh', 'optimizer': 'nadam'}
+04/16/2024 10:31:05 PM - INFO - Network accuracy: 97.48%
+04/16/2024 10:31:24 PM - INFO - {'nb_neurons': 512, 'nb_layers': 3, 'activation': 'sigmoid', 'optimizer': 'rmsprop'}
+04/16/2024 10:31:24 PM - INFO - Network accuracy: 96.05%
+04/16/2024 10:31:45 PM - INFO - {'nb_neurons': 512, 'nb_layers': 3, 'activation': 'sigmoid', 'optimizer': 'adam'}
+04/16/2024 10:31:45 PM - INFO - Network accuracy: 96.91%
+04/16/2024 10:31:58 PM - INFO - {'nb_neurons': 512, 'nb_layers': 3, 'activation': 'sigmoid', 'optimizer': 'sgd'}
+04/16/2024 10:31:58 PM - INFO - Network accuracy: 11.46%
+04/16/2024 10:32:17 PM - INFO - {'nb_neurons': 512, 'nb_layers': 3, 'activation': 'sigmoid', 'optimizer': 'adagrad'}
+04/16/2024 10:32:17 PM - INFO - Network accuracy: 11.35%
+04/16/2024 10:32:44 PM - INFO - {'nb_neurons': 512, 'nb_layers': 3, 'activation': 'sigmoid', 'optimizer': 'adadelta'}
+04/16/2024 10:32:44 PM - INFO - Network accuracy: 11.35%
+04/16/2024 10:33:06 PM - INFO - {'nb_neurons': 512, 'nb_layers': 3, 'activation': 'sigmoid', 'optimizer': 'adamax'}
+04/16/2024 10:33:06 PM - INFO - Network accuracy: 94.54%
+04/16/2024 10:33:29 PM - INFO - {'nb_neurons': 512, 'nb_layers': 3, 'activation': 'sigmoid', 'optimizer': 'nadam'}
+04/16/2024 10:33:29 PM - INFO - Network accuracy: 96.99%
+04/16/2024 10:33:53 PM - INFO - {'nb_neurons': 512, 'nb_layers': 4, 'activation': 'relu', 'optimizer': 'rmsprop'}
+04/16/2024 10:33:53 PM - INFO - Network accuracy: 98.09%
+04/16/2024 10:34:18 PM - INFO - {'nb_neurons': 512, 'nb_layers': 4, 'activation': 'relu', 'optimizer': 'adam'}
+04/16/2024 10:34:18 PM - INFO - Network accuracy: 97.77%
+04/16/2024 10:34:33 PM - INFO - {'nb_neurons': 512, 'nb_layers': 4, 'activation': 'relu', 'optimizer': 'sgd'}
+04/16/2024 10:34:33 PM - INFO - Network accuracy: 93.12%
+04/16/2024 10:34:54 PM - INFO - {'nb_neurons': 512, 'nb_layers': 4, 'activation': 'relu', 'optimizer': 'adagrad'}
+04/16/2024 10:34:54 PM - INFO - Network accuracy: 87.76%
+04/16/2024 10:35:27 PM - INFO - {'nb_neurons': 512, 'nb_layers': 4, 'activation': 'relu', 'optimizer': 'adadelta'}
+04/16/2024 10:35:27 PM - INFO - Network accuracy: 67.81%
+04/16/2024 10:35:55 PM - INFO - {'nb_neurons': 512, 'nb_layers': 4, 'activation': 'relu', 'optimizer': 'adamax'}
+04/16/2024 10:35:55 PM - INFO - Network accuracy: 97.94%
+04/16/2024 10:36:23 PM - INFO - {'nb_neurons': 512, 'nb_layers': 4, 'activation': 'relu', 'optimizer': 'nadam'}
+04/16/2024 10:36:23 PM - INFO - Network accuracy: 98.02%
+04/16/2024 10:36:46 PM - INFO - {'nb_neurons': 512, 'nb_layers': 4, 'activation': 'elu', 'optimizer': 'rmsprop'}
+04/16/2024 10:36:46 PM - INFO - Network accuracy: 96.12%
+04/16/2024 10:37:10 PM - INFO - {'nb_neurons': 512, 'nb_layers': 4, 'activation': 'elu', 'optimizer': 'adam'}
+04/16/2024 10:37:10 PM - INFO - Network accuracy: 97.37%
+04/16/2024 10:37:25 PM - INFO - {'nb_neurons': 512, 'nb_layers': 4, 'activation': 'elu', 'optimizer': 'sgd'}
+04/16/2024 10:37:25 PM - INFO - Network accuracy: 92.48%
+04/16/2024 10:37:46 PM - INFO - {'nb_neurons': 512, 'nb_layers': 4, 'activation': 'elu', 'optimizer': 'adagrad'}
+04/16/2024 10:37:46 PM - INFO - Network accuracy: 90.22%
+04/16/2024 10:38:20 PM - INFO - {'nb_neurons': 512, 'nb_layers': 4, 'activation': 'elu', 'optimizer': 'adadelta'}
+04/16/2024 10:38:20 PM - INFO - Network accuracy: 80.36%
+04/16/2024 10:38:47 PM - INFO - {'nb_neurons': 512, 'nb_layers': 4, 'activation': 'elu', 'optimizer': 'adamax'}
+04/16/2024 10:38:47 PM - INFO - Network accuracy: 97.09%
+04/16/2024 10:39:14 PM - INFO - {'nb_neurons': 512, 'nb_layers': 4, 'activation': 'elu', 'optimizer': 'nadam'}
+04/16/2024 10:39:14 PM - INFO - Network accuracy: 97.22%
+04/16/2024 10:39:38 PM - INFO - {'nb_neurons': 512, 'nb_layers': 4, 'activation': 'tanh', 'optimizer': 'rmsprop'}
+04/16/2024 10:39:38 PM - INFO - Network accuracy: 97.27%
+04/16/2024 10:40:03 PM - INFO - {'nb_neurons': 512, 'nb_layers': 4, 'activation': 'tanh', 'optimizer': 'adam'}
+04/16/2024 10:40:03 PM - INFO - Network accuracy: 96.85%
+04/16/2024 10:40:18 PM - INFO - {'nb_neurons': 512, 'nb_layers': 4, 'activation': 'tanh', 'optimizer': 'sgd'}
+04/16/2024 10:40:18 PM - INFO - Network accuracy: 92.03%
+04/16/2024 10:40:38 PM - INFO - {'nb_neurons': 512, 'nb_layers': 4, 'activation': 'tanh', 'optimizer': 'adagrad'}
+04/16/2024 10:40:38 PM - INFO - Network accuracy: 90.25%
+04/16/2024 10:41:10 PM - INFO - {'nb_neurons': 512, 'nb_layers': 4, 'activation': 'tanh', 'optimizer': 'adadelta'}
+04/16/2024 10:41:10 PM - INFO - Network accuracy: 80.79%
+04/16/2024 10:41:38 PM - INFO - {'nb_neurons': 512, 'nb_layers': 4, 'activation': 'tanh', 'optimizer': 'adamax'}
+04/16/2024 10:41:38 PM - INFO - Network accuracy: 96.87%
+04/16/2024 10:42:05 PM - INFO - {'nb_neurons': 512, 'nb_layers': 4, 'activation': 'tanh', 'optimizer': 'nadam'}
+04/16/2024 10:42:05 PM - INFO - Network accuracy: 97.22%
+04/16/2024 10:42:28 PM - INFO - {'nb_neurons': 512, 'nb_layers': 4, 'activation': 'sigmoid', 'optimizer': 'rmsprop'}
+04/16/2024 10:42:28 PM - INFO - Network accuracy: 95.46%
+04/16/2024 10:42:54 PM - INFO - {'nb_neurons': 512, 'nb_layers': 4, 'activation': 'sigmoid', 'optimizer': 'adam'}
+04/16/2024 10:42:54 PM - INFO - Network accuracy: 96.81%
+04/16/2024 10:43:08 PM - INFO - {'nb_neurons': 512, 'nb_layers': 4, 'activation': 'sigmoid', 'optimizer': 'sgd'}
+04/16/2024 10:43:08 PM - INFO - Network accuracy: 11.35%
+04/16/2024 10:43:29 PM - INFO - {'nb_neurons': 512, 'nb_layers': 4, 'activation': 'sigmoid', 'optimizer': 'adagrad'}
+04/16/2024 10:43:29 PM - INFO - Network accuracy: 11.35%
+04/16/2024 10:44:01 PM - INFO - {'nb_neurons': 512, 'nb_layers': 4, 'activation': 'sigmoid', 'optimizer': 'adadelta'}
+04/16/2024 10:44:01 PM - INFO - Network accuracy: 11.35%
+04/16/2024 10:44:28 PM - INFO - {'nb_neurons': 512, 'nb_layers': 4, 'activation': 'sigmoid', 'optimizer': 'adamax'}
+04/16/2024 10:44:28 PM - INFO - Network accuracy: 94.04%
+04/16/2024 10:44:56 PM - INFO - {'nb_neurons': 512, 'nb_layers': 4, 'activation': 'sigmoid', 'optimizer': 'nadam'}
+04/16/2024 10:44:56 PM - INFO - Network accuracy: 96.84%
+04/16/2024 10:45:09 PM - INFO - {'nb_neurons': 768, 'nb_layers': 1, 'activation': 'relu', 'optimizer': 'rmsprop'}
+04/16/2024 10:45:09 PM - INFO - Network accuracy: 97.92%
+04/16/2024 10:45:24 PM - INFO - {'nb_neurons': 768, 'nb_layers': 1, 'activation': 'relu', 'optimizer': 'adam'}
+04/16/2024 10:45:24 PM - INFO - Network accuracy: 98.07%
+04/16/2024 10:45:30 PM - INFO - {'nb_neurons': 768, 'nb_layers': 1, 'activation': 'relu', 'optimizer': 'sgd'}
+04/16/2024 10:45:30 PM - INFO - Network accuracy: 91.57%
+04/16/2024 10:45:42 PM - INFO - {'nb_neurons': 768, 'nb_layers': 1, 'activation': 'relu', 'optimizer': 'adagrad'}
+04/16/2024 10:45:42 PM - INFO - Network accuracy: 88.45%
+04/16/2024 10:45:59 PM - INFO - {'nb_neurons': 768, 'nb_layers': 1, 'activation': 'relu', 'optimizer': 'adadelta'}
+04/16/2024 10:45:59 PM - INFO - Network accuracy: 72.74%
+04/16/2024 10:46:14 PM - INFO - {'nb_neurons': 768, 'nb_layers': 1, 'activation': 'relu', 'optimizer': 'adamax'}
+04/16/2024 10:46:14 PM - INFO - Network accuracy: 97.30%
+04/16/2024 10:46:29 PM - INFO - {'nb_neurons': 768, 'nb_layers': 1, 'activation': 'relu', 'optimizer': 'nadam'}
+04/16/2024 10:46:29 PM - INFO - Network accuracy: 98.13%
+04/16/2024 10:46:42 PM - INFO - {'nb_neurons': 768, 'nb_layers': 1, 'activation': 'elu', 'optimizer': 'rmsprop'}
+04/16/2024 10:46:42 PM - INFO - Network accuracy: 97.14%
+04/16/2024 10:46:56 PM - INFO - {'nb_neurons': 768, 'nb_layers': 1, 'activation': 'elu', 'optimizer': 'adam'}
+04/16/2024 10:46:56 PM - INFO - Network accuracy: 97.17%
+04/16/2024 10:47:02 PM - INFO - {'nb_neurons': 768, 'nb_layers': 1, 'activation': 'elu', 'optimizer': 'sgd'}
+04/16/2024 10:47:02 PM - INFO - Network accuracy: 90.77%
+04/16/2024 10:47:14 PM - INFO - {'nb_neurons': 768, 'nb_layers': 1, 'activation': 'elu', 'optimizer': 'adagrad'}
+04/16/2024 10:47:14 PM - INFO - Network accuracy: 88.13%
+04/16/2024 10:47:39 PM - INFO - {'nb_neurons': 768, 'nb_layers': 1, 'activation': 'elu', 'optimizer': 'adadelta'}
+04/16/2024 10:47:39 PM - INFO - Network accuracy: 74.44%
+04/16/2024 10:47:56 PM - INFO - {'nb_neurons': 768, 'nb_layers': 1, 'activation': 'elu', 'optimizer': 'adamax'}
+04/16/2024 10:47:56 PM - INFO - Network accuracy: 95.74%
+04/16/2024 10:48:12 PM - INFO - {'nb_neurons': 768, 'nb_layers': 1, 'activation': 'elu', 'optimizer': 'nadam'}
+04/16/2024 10:48:12 PM - INFO - Network accuracy: 96.92%
+04/16/2024 10:48:26 PM - INFO - {'nb_neurons': 768, 'nb_layers': 1, 'activation': 'tanh', 'optimizer': 'rmsprop'}
+04/16/2024 10:48:26 PM - INFO - Network accuracy: 97.24%
+04/16/2024 10:48:46 PM - INFO - {'nb_neurons': 768, 'nb_layers': 1, 'activation': 'tanh', 'optimizer': 'adam'}
+04/16/2024 10:48:46 PM - INFO - Network accuracy: 97.31%
+04/16/2024 10:48:56 PM - INFO - {'nb_neurons': 768, 'nb_layers': 1, 'activation': 'tanh', 'optimizer': 'sgd'}
+04/16/2024 10:48:56 PM - INFO - Network accuracy: 90.89%
+04/16/2024 10:49:10 PM - INFO - {'nb_neurons': 768, 'nb_layers': 1, 'activation': 'tanh', 'optimizer': 'adagrad'}
+04/16/2024 10:49:10 PM - INFO - Network accuracy: 88.19%
+04/16/2024 10:49:29 PM - INFO - {'nb_neurons': 768, 'nb_layers': 1, 'activation': 'tanh', 'optimizer': 'adadelta'}
+04/16/2024 10:49:29 PM - INFO - Network accuracy: 74.53%
+04/16/2024 10:49:49 PM - INFO - {'nb_neurons': 768, 'nb_layers': 1, 'activation': 'tanh', 'optimizer': 'adamax'}
+04/16/2024 10:49:49 PM - INFO - Network accuracy: 95.33%
+04/16/2024 10:50:07 PM - INFO - {'nb_neurons': 768, 'nb_layers': 1, 'activation': 'tanh', 'optimizer': 'nadam'}
+04/16/2024 10:50:07 PM - INFO - Network accuracy: 97.27%
+04/16/2024 10:50:22 PM - INFO - {'nb_neurons': 768, 'nb_layers': 1, 'activation': 'sigmoid', 'optimizer': 'rmsprop'}
+04/16/2024 10:50:22 PM - INFO - Network accuracy: 95.97%
+04/16/2024 10:50:38 PM - INFO - {'nb_neurons': 768, 'nb_layers': 1, 'activation': 'sigmoid', 'optimizer': 'adam'}
+04/16/2024 10:50:38 PM - INFO - Network accuracy: 96.46%
+04/16/2024 10:50:47 PM - INFO - {'nb_neurons': 768, 'nb_layers': 1, 'activation': 'sigmoid', 'optimizer': 'sgd'}
+04/16/2024 10:50:47 PM - INFO - Network accuracy: 86.07%
+04/16/2024 10:51:03 PM - INFO - {'nb_neurons': 768, 'nb_layers': 1, 'activation': 'sigmoid', 'optimizer': 'adagrad'}
+04/16/2024 10:51:03 PM - INFO - Network accuracy: 78.17%
+04/16/2024 10:51:28 PM - INFO - {'nb_neurons': 768, 'nb_layers': 1, 'activation': 'sigmoid', 'optimizer': 'adadelta'}
+04/16/2024 10:51:28 PM - INFO - Network accuracy: 51.11%
+04/16/2024 10:51:47 PM - INFO - {'nb_neurons': 768, 'nb_layers': 1, 'activation': 'sigmoid', 'optimizer': 'adamax'}
+04/16/2024 10:51:47 PM - INFO - Network accuracy: 93.83%
+04/16/2024 10:52:06 PM - INFO - {'nb_neurons': 768, 'nb_layers': 1, 'activation': 'sigmoid', 'optimizer': 'nadam'}
+04/16/2024 10:52:06 PM - INFO - Network accuracy: 96.48%
+04/16/2024 10:52:36 PM - INFO - {'nb_neurons': 768, 'nb_layers': 2, 'activation': 'relu', 'optimizer': 'rmsprop'}
+04/16/2024 10:52:36 PM - INFO - Network accuracy: 98.14%
+04/16/2024 10:53:06 PM - INFO - {'nb_neurons': 768, 'nb_layers': 2, 'activation': 'relu', 'optimizer': 'adam'}
+04/16/2024 10:53:06 PM - INFO - Network accuracy: 98.16%
+04/16/2024 10:53:24 PM - INFO - {'nb_neurons': 768, 'nb_layers': 2, 'activation': 'relu', 'optimizer': 'sgd'}
+04/16/2024 10:53:24 PM - INFO - Network accuracy: 92.34%
+04/16/2024 10:53:50 PM - INFO - {'nb_neurons': 768, 'nb_layers': 2, 'activation': 'relu', 'optimizer': 'adagrad'}
+04/16/2024 10:53:50 PM - INFO - Network accuracy: 88.89%
+04/16/2024 10:54:31 PM - INFO - {'nb_neurons': 768, 'nb_layers': 2, 'activation': 'relu', 'optimizer': 'adadelta'}
+04/16/2024 10:54:31 PM - INFO - Network accuracy: 76.85%
+04/16/2024 10:55:04 PM - INFO - {'nb_neurons': 768, 'nb_layers': 2, 'activation': 'relu', 'optimizer': 'adamax'}
+04/16/2024 10:55:04 PM - INFO - Network accuracy: 97.98%
+04/16/2024 10:55:41 PM - INFO - {'nb_neurons': 768, 'nb_layers': 2, 'activation': 'relu', 'optimizer': 'nadam'}
+04/16/2024 10:55:41 PM - INFO - Network accuracy: 98.15%
+04/16/2024 10:56:14 PM - INFO - {'nb_neurons': 768, 'nb_layers': 2, 'activation': 'elu', 'optimizer': 'rmsprop'}
+04/16/2024 10:56:14 PM - INFO - Network accuracy: 97.37%
+04/16/2024 10:56:45 PM - INFO - {'nb_neurons': 768, 'nb_layers': 2, 'activation': 'elu', 'optimizer': 'adam'}
+04/16/2024 10:56:45 PM - INFO - Network accuracy: 97.16%
+04/16/2024 10:57:03 PM - INFO - {'nb_neurons': 768, 'nb_layers': 2, 'activation': 'elu', 'optimizer': 'sgd'}
+04/16/2024 10:57:03 PM - INFO - Network accuracy: 91.63%
+04/16/2024 10:57:30 PM - INFO - {'nb_neurons': 768, 'nb_layers': 2, 'activation': 'elu', 'optimizer': 'adagrad'}
+04/16/2024 10:57:30 PM - INFO - Network accuracy: 89.54%
+04/16/2024 10:58:10 PM - INFO - {'nb_neurons': 768, 'nb_layers': 2, 'activation': 'elu', 'optimizer': 'adadelta'}
+04/16/2024 10:58:10 PM - INFO - Network accuracy: 81.26%
+04/16/2024 10:58:46 PM - INFO - {'nb_neurons': 768, 'nb_layers': 2, 'activation': 'elu', 'optimizer': 'adamax'}
+04/16/2024 10:58:46 PM - INFO - Network accuracy: 97.07%
+04/16/2024 10:59:31 PM - INFO - {'nb_neurons': 768, 'nb_layers': 2, 'activation': 'elu', 'optimizer': 'nadam'}
+04/16/2024 10:59:31 PM - INFO - Network accuracy: 97.40%
+04/16/2024 11:00:00 PM - INFO - {'nb_neurons': 768, 'nb_layers': 2, 'activation': 'tanh', 'optimizer': 'rmsprop'}
+04/16/2024 11:00:00 PM - INFO - Network accuracy: 97.48%
+04/16/2024 11:00:40 PM - INFO - {'nb_neurons': 768, 'nb_layers': 2, 'activation': 'tanh', 'optimizer': 'adam'}
+04/16/2024 11:00:40 PM - INFO - Network accuracy: 97.23%
+04/16/2024 11:01:03 PM - INFO - {'nb_neurons': 768, 'nb_layers': 2, 'activation': 'tanh', 'optimizer': 'sgd'}
+04/16/2024 11:01:03 PM - INFO - Network accuracy: 91.65%
+04/16/2024 11:01:37 PM - INFO - {'nb_neurons': 768, 'nb_layers': 2, 'activation': 'tanh', 'optimizer': 'adagrad'}
+04/16/2024 11:01:37 PM - INFO - Network accuracy: 89.80%
+04/16/2024 11:02:29 PM - INFO - {'nb_neurons': 768, 'nb_layers': 2, 'activation': 'tanh', 'optimizer': 'adadelta'}
+04/16/2024 11:02:29 PM - INFO - Network accuracy: 81.84%
+04/16/2024 11:03:06 PM - INFO - {'nb_neurons': 768, 'nb_layers': 2, 'activation': 'tanh', 'optimizer': 'adamax'}
+04/16/2024 11:03:06 PM - INFO - Network accuracy: 96.86%
+04/16/2024 11:03:38 PM - INFO - {'nb_neurons': 768, 'nb_layers': 2, 'activation': 'tanh', 'optimizer': 'nadam'}
+04/16/2024 11:03:38 PM - INFO - Network accuracy: 97.55%
+04/16/2024 11:04:06 PM - INFO - {'nb_neurons': 768, 'nb_layers': 2, 'activation': 'sigmoid', 'optimizer': 'rmsprop'}
+04/16/2024 11:04:06 PM - INFO - Network accuracy: 96.31%
+04/16/2024 11:04:41 PM - INFO - {'nb_neurons': 768, 'nb_layers': 2, 'activation': 'sigmoid', 'optimizer': 'adam'}
+04/16/2024 11:04:41 PM - INFO - Network accuracy: 96.67%
+04/16/2024 11:05:03 PM - INFO - {'nb_neurons': 768, 'nb_layers': 2, 'activation': 'sigmoid', 'optimizer': 'sgd'}
+04/16/2024 11:05:03 PM - INFO - Network accuracy: 68.19%
+04/16/2024 11:05:40 PM - INFO - {'nb_neurons': 768, 'nb_layers': 2, 'activation': 'sigmoid', 'optimizer': 'adagrad'}
+04/16/2024 11:05:40 PM - INFO - Network accuracy: 50.60%
+04/16/2024 11:06:34 PM - INFO - {'nb_neurons': 768, 'nb_layers': 2, 'activation': 'sigmoid', 'optimizer': 'adadelta'}
+04/16/2024 11:06:34 PM - INFO - Network accuracy: 14.26%
+04/16/2024 11:07:18 PM - INFO - {'nb_neurons': 768, 'nb_layers': 2, 'activation': 'sigmoid', 'optimizer': 'adamax'}
+04/16/2024 11:07:18 PM - INFO - Network accuracy: 94.38%
+04/16/2024 11:08:06 PM - INFO - {'nb_neurons': 768, 'nb_layers': 2, 'activation': 'sigmoid', 'optimizer': 'nadam'}
+04/16/2024 11:08:06 PM - INFO - Network accuracy: 97.29%
+04/16/2024 11:08:59 PM - INFO - {'nb_neurons': 768, 'nb_layers': 3, 'activation': 'relu', 'optimizer': 'rmsprop'}
+04/16/2024 11:08:59 PM - INFO - Network accuracy: 98.33%
+04/16/2024 11:10:02 PM - INFO - {'nb_neurons': 768, 'nb_layers': 3, 'activation': 'relu', 'optimizer': 'adam'}
+04/16/2024 11:10:02 PM - INFO - Network accuracy: 98.03%
+04/16/2024 11:10:35 PM - INFO - {'nb_neurons': 768, 'nb_layers': 3, 'activation': 'relu', 'optimizer': 'sgd'}
+04/16/2024 11:10:35 PM - INFO - Network accuracy: 93.04%
+04/16/2024 11:11:14 PM - INFO - {'nb_neurons': 768, 'nb_layers': 3, 'activation': 'relu', 'optimizer': 'adagrad'}
+04/16/2024 11:11:14 PM - INFO - Network accuracy: 89.48%
+04/16/2024 11:12:12 PM - INFO - {'nb_neurons': 768, 'nb_layers': 3, 'activation': 'relu', 'optimizer': 'adadelta'}
+04/16/2024 11:12:12 PM - INFO - Network accuracy: 73.98%
+04/16/2024 11:12:59 PM - INFO - {'nb_neurons': 768, 'nb_layers': 3, 'activation': 'relu', 'optimizer': 'adamax'}
+04/16/2024 11:12:59 PM - INFO - Network accuracy: 98.04%
+04/16/2024 11:13:49 PM - INFO - {'nb_neurons': 768, 'nb_layers': 3, 'activation': 'relu', 'optimizer': 'nadam'}
+04/16/2024 11:13:50 PM - INFO - Network accuracy: 97.97%
+04/16/2024 11:14:31 PM - INFO - {'nb_neurons': 768, 'nb_layers': 3, 'activation': 'elu', 'optimizer': 'rmsprop'}
+04/16/2024 11:14:31 PM - INFO - Network accuracy: 96.38%
+04/16/2024 11:15:16 PM - INFO - {'nb_neurons': 768, 'nb_layers': 3, 'activation': 'elu', 'optimizer': 'adam'}
+04/16/2024 11:15:16 PM - INFO - Network accuracy: 96.91%
+04/16/2024 11:15:40 PM - INFO - {'nb_neurons': 768, 'nb_layers': 3, 'activation': 'elu', 'optimizer': 'sgd'}
+04/16/2024 11:15:40 PM - INFO - Network accuracy: 91.97%
+04/16/2024 11:16:16 PM - INFO - {'nb_neurons': 768, 'nb_layers': 3, 'activation': 'elu', 'optimizer': 'adagrad'}
+04/16/2024 11:16:16 PM - INFO - Network accuracy: 90.19%
+04/16/2024 11:17:16 PM - INFO - {'nb_neurons': 768, 'nb_layers': 3, 'activation': 'elu', 'optimizer': 'adadelta'}
+04/16/2024 11:17:16 PM - INFO - Network accuracy: 82.93%
+04/16/2024 11:18:04 PM - INFO - {'nb_neurons': 768, 'nb_layers': 3, 'activation': 'elu', 'optimizer': 'adamax'}
+04/16/2024 11:18:04 PM - INFO - Network accuracy: 97.35%
+04/16/2024 11:18:56 PM - INFO - {'nb_neurons': 768, 'nb_layers': 3, 'activation': 'elu', 'optimizer': 'nadam'}
+04/16/2024 11:18:56 PM - INFO - Network accuracy: 96.94%
+04/16/2024 11:19:38 PM - INFO - {'nb_neurons': 768, 'nb_layers': 3, 'activation': 'tanh', 'optimizer': 'rmsprop'}
+04/16/2024 11:19:38 PM - INFO - Network accuracy: 97.61%
+04/16/2024 11:20:21 PM - INFO - {'nb_neurons': 768, 'nb_layers': 3, 'activation': 'tanh', 'optimizer': 'adam'}
+04/16/2024 11:20:21 PM - INFO - Network accuracy: 97.32%
+04/16/2024 11:20:46 PM - INFO - {'nb_neurons': 768, 'nb_layers': 3, 'activation': 'tanh', 'optimizer': 'sgd'}
+04/16/2024 11:20:46 PM - INFO - Network accuracy: 91.95%
+04/16/2024 11:21:28 PM - INFO - {'nb_neurons': 768, 'nb_layers': 3, 'activation': 'tanh', 'optimizer': 'adagrad'}
+04/16/2024 11:21:28 PM - INFO - Network accuracy: 90.21%
+04/16/2024 11:22:26 PM - INFO - {'nb_neurons': 768, 'nb_layers': 3, 'activation': 'tanh', 'optimizer': 'adadelta'}
+04/16/2024 11:22:26 PM - INFO - Network accuracy: 83.28%
+04/16/2024 11:23:14 PM - INFO - {'nb_neurons': 768, 'nb_layers': 3, 'activation': 'tanh', 'optimizer': 'adamax'}
+04/16/2024 11:23:14 PM - INFO - Network accuracy: 97.28%
+04/16/2024 11:24:10 PM - INFO - {'nb_neurons': 768, 'nb_layers': 3, 'activation': 'tanh', 'optimizer': 'nadam'}
+04/16/2024 11:24:10 PM - INFO - Network accuracy: 97.12%
+04/16/2024 11:24:54 PM - INFO - {'nb_neurons': 768, 'nb_layers': 3, 'activation': 'sigmoid', 'optimizer': 'rmsprop'}
+04/16/2024 11:24:54 PM - INFO - Network accuracy: 95.93%
+04/16/2024 11:25:39 PM - INFO - {'nb_neurons': 768, 'nb_layers': 3, 'activation': 'sigmoid', 'optimizer': 'adam'}
+04/16/2024 11:25:39 PM - INFO - Network accuracy: 97.30%
+04/16/2024 11:26:03 PM - INFO - {'nb_neurons': 768, 'nb_layers': 3, 'activation': 'sigmoid', 'optimizer': 'sgd'}
+04/16/2024 11:26:03 PM - INFO - Network accuracy: 17.66%
+04/16/2024 11:26:36 PM - INFO - {'nb_neurons': 768, 'nb_layers': 3, 'activation': 'sigmoid', 'optimizer': 'adagrad'}
+04/16/2024 11:26:36 PM - INFO - Network accuracy: 11.35%
+04/16/2024 11:27:39 PM - INFO - {'nb_neurons': 768, 'nb_layers': 3, 'activation': 'sigmoid', 'optimizer': 'adadelta'}
+04/16/2024 11:27:39 PM - INFO - Network accuracy: 11.35%
+04/16/2024 11:28:28 PM - INFO - {'nb_neurons': 768, 'nb_layers': 3, 'activation': 'sigmoid', 'optimizer': 'adamax'}
+04/16/2024 11:28:28 PM - INFO - Network accuracy: 94.81%
+04/16/2024 11:29:28 PM - INFO - {'nb_neurons': 768, 'nb_layers': 3, 'activation': 'sigmoid', 'optimizer': 'nadam'}
+04/16/2024 11:29:28 PM - INFO - Network accuracy: 96.99%
+04/16/2024 11:30:25 PM - INFO - {'nb_neurons': 768, 'nb_layers': 4, 'activation': 'relu', 'optimizer': 'rmsprop'}
+04/16/2024 11:30:25 PM - INFO - Network accuracy: 97.95%
+04/16/2024 11:31:26 PM - INFO - {'nb_neurons': 768, 'nb_layers': 4, 'activation': 'relu', 'optimizer': 'adam'}
+04/16/2024 11:31:26 PM - INFO - Network accuracy: 98.03%
+04/16/2024 11:32:19 PM - INFO - {'nb_neurons': 768, 'nb_layers': 4, 'activation': 'relu', 'optimizer': 'sgd'}
+04/16/2024 11:32:19 PM - INFO - Network accuracy: 93.43%
+04/16/2024 11:33:42 PM - INFO - {'nb_neurons': 768, 'nb_layers': 4, 'activation': 'relu', 'optimizer': 'adagrad'}
+04/16/2024 11:33:42 PM - INFO - Network accuracy: 88.66%
+04/16/2024 11:35:46 PM - INFO - {'nb_neurons': 768, 'nb_layers': 4, 'activation': 'relu', 'optimizer': 'adadelta'}
+04/16/2024 11:35:46 PM - INFO - Network accuracy: 69.08%
+04/16/2024 11:39:14 PM - INFO - {'nb_neurons': 768, 'nb_layers': 4, 'activation': 'relu', 'optimizer': 'adamax'}
+04/16/2024 11:39:14 PM - INFO - Network accuracy: 97.81%
+04/16/2024 11:41:51 PM - INFO - {'nb_neurons': 768, 'nb_layers': 4, 'activation': 'relu', 'optimizer': 'nadam'}
+04/16/2024 11:41:51 PM - INFO - Network accuracy: 97.94%
+04/16/2024 11:43:10 PM - INFO - {'nb_neurons': 768, 'nb_layers': 4, 'activation': 'elu', 'optimizer': 'rmsprop'}
+04/16/2024 11:43:10 PM - INFO - Network accuracy: 96.28%
+04/16/2024 11:44:37 PM - INFO - {'nb_neurons': 768, 'nb_layers': 4, 'activation': 'elu', 'optimizer': 'adam'}
+04/16/2024 11:44:37 PM - INFO - Network accuracy: 96.02%
+04/16/2024 11:45:42 PM - INFO - {'nb_neurons': 768, 'nb_layers': 4, 'activation': 'elu', 'optimizer': 'sgd'}
+04/16/2024 11:45:42 PM - INFO - Network accuracy: 92.51%
+04/16/2024 11:46:45 PM - INFO - {'nb_neurons': 768, 'nb_layers': 4, 'activation': 'elu', 'optimizer': 'adagrad'}
+04/16/2024 11:46:45 PM - INFO - Network accuracy: 90.66%
+04/16/2024 11:48:21 PM - INFO - {'nb_neurons': 768, 'nb_layers': 4, 'activation': 'elu', 'optimizer': 'adadelta'}
+04/16/2024 11:48:21 PM - INFO - Network accuracy: 84.60%
+04/16/2024 11:49:31 PM - INFO - {'nb_neurons': 768, 'nb_layers': 4, 'activation': 'elu', 'optimizer': 'adamax'}
+04/16/2024 11:49:31 PM - INFO - Network accuracy: 97.06%
+04/16/2024 11:51:20 PM - INFO - {'nb_neurons': 768, 'nb_layers': 4, 'activation': 'elu', 'optimizer': 'nadam'}
+04/16/2024 11:51:20 PM - INFO - Network accuracy: 96.98%
+04/16/2024 11:53:06 PM - INFO - {'nb_neurons': 768, 'nb_layers': 4, 'activation': 'tanh', 'optimizer': 'rmsprop'}
+04/16/2024 11:53:06 PM - INFO - Network accuracy: 96.39%
+04/16/2024 11:54:42 PM - INFO - {'nb_neurons': 768, 'nb_layers': 4, 'activation': 'tanh', 'optimizer': 'adam'}
+04/16/2024 11:54:42 PM - INFO - Network accuracy: 97.07%
+04/16/2024 11:55:41 PM - INFO - {'nb_neurons': 768, 'nb_layers': 4, 'activation': 'tanh', 'optimizer': 'sgd'}
+04/16/2024 11:55:41 PM - INFO - Network accuracy: 92.21%
+04/16/2024 11:57:06 PM - INFO - {'nb_neurons': 768, 'nb_layers': 4, 'activation': 'tanh', 'optimizer': 'adagrad'}
+04/16/2024 11:57:06 PM - INFO - Network accuracy: 90.66%
+04/16/2024 11:58:52 PM - INFO - {'nb_neurons': 768, 'nb_layers': 4, 'activation': 'tanh', 'optimizer': 'adadelta'}
+04/16/2024 11:58:52 PM - INFO - Network accuracy: 84.97%
+04/17/2024 12:00:33 AM - INFO - {'nb_neurons': 768, 'nb_layers': 4, 'activation': 'tanh', 'optimizer': 'adamax'}
+04/17/2024 12:00:33 AM - INFO - Network accuracy: 97.27%
+04/17/2024 12:02:23 AM - INFO - {'nb_neurons': 768, 'nb_layers': 4, 'activation': 'tanh', 'optimizer': 'nadam'}
+04/17/2024 12:02:23 AM - INFO - Network accuracy: 96.82%
+04/17/2024 12:04:16 AM - INFO - {'nb_neurons': 768, 'nb_layers': 4, 'activation': 'sigmoid', 'optimizer': 'rmsprop'}
+04/17/2024 12:04:16 AM - INFO - Network accuracy: 94.48%
+04/17/2024 12:05:53 AM - INFO - {'nb_neurons': 768, 'nb_layers': 4, 'activation': 'sigmoid', 'optimizer': 'adam'}
+04/17/2024 12:05:53 AM - INFO - Network accuracy: 96.85%
+04/17/2024 12:06:51 AM - INFO - {'nb_neurons': 768, 'nb_layers': 4, 'activation': 'sigmoid', 'optimizer': 'sgd'}
+04/17/2024 12:06:51 AM - INFO - Network accuracy: 11.35%
+04/17/2024 12:08:15 AM - INFO - {'nb_neurons': 768, 'nb_layers': 4, 'activation': 'sigmoid', 'optimizer': 'adagrad'}
+04/17/2024 12:08:15 AM - INFO - Network accuracy: 11.35%
+04/17/2024 12:10:18 AM - INFO - {'nb_neurons': 768, 'nb_layers': 4, 'activation': 'sigmoid', 'optimizer': 'adadelta'}
+04/17/2024 12:10:18 AM - INFO - Network accuracy: 11.35%
+04/17/2024 12:12:12 AM - INFO - {'nb_neurons': 768, 'nb_layers': 4, 'activation': 'sigmoid', 'optimizer': 'adamax'}
+04/17/2024 12:12:12 AM - INFO - Network accuracy: 94.14%
+04/17/2024 12:14:12 AM - INFO - {'nb_neurons': 768, 'nb_layers': 4, 'activation': 'sigmoid', 'optimizer': 'nadam'}
+04/17/2024 12:14:12 AM - INFO - Network accuracy: 97.00%
+04/17/2024 12:14:51 AM - INFO - {'nb_neurons': 1024, 'nb_layers': 1, 'activation': 'relu', 'optimizer': 'rmsprop'}
+04/17/2024 12:14:51 AM - INFO - Network accuracy: 98.23%
+04/17/2024 12:15:45 AM - INFO - {'nb_neurons': 1024, 'nb_layers': 1, 'activation': 'relu', 'optimizer': 'adam'}
+04/17/2024 12:15:45 AM - INFO - Network accuracy: 97.87%
+04/17/2024 12:16:16 AM - INFO - {'nb_neurons': 1024, 'nb_layers': 1, 'activation': 'relu', 'optimizer': 'sgd'}
+04/17/2024 12:16:16 AM - INFO - Network accuracy: 91.72%
+04/17/2024 12:16:59 AM - INFO - {'nb_neurons': 1024, 'nb_layers': 1, 'activation': 'relu', 'optimizer': 'adagrad'}
+04/17/2024 12:16:59 AM - INFO - Network accuracy: 88.62%
+04/17/2024 12:17:47 AM - INFO - {'nb_neurons': 1024, 'nb_layers': 1, 'activation': 'relu', 'optimizer': 'adadelta'}
+04/17/2024 12:17:47 AM - INFO - Network accuracy: 75.61%
+04/17/2024 12:18:49 AM - INFO - {'nb_neurons': 1024, 'nb_layers': 1, 'activation': 'relu', 'optimizer': 'adamax'}
+04/17/2024 12:18:49 AM - INFO - Network accuracy: 97.53%
+04/17/2024 12:19:19 AM - INFO - {'nb_neurons': 1024, 'nb_layers': 1, 'activation': 'relu', 'optimizer': 'nadam'}
+04/17/2024 12:19:19 AM - INFO - Network accuracy: 98.17%
